@@ -1,0 +1,5809 @@
+[
+  {
+    "title ": "HEARTSTOPPER 2",
+    "author(s) ": "OSEMAN, ALICE",
+    "price ": "$1.899,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678258.jpg"
+  },
+  {
+    "title ": "NICK Y CHARLIE",
+    "author(s) ": "OSEMAN, ALICE",
+    "price ": "$1.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695261.jpg"
+  },
+  {
+    "title ": "HEARTSTOPPER",
+    "author(s) ": "OSEMAN, ALICE",
+    "price ": "$1.899,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/673905.jpg"
+  },
+  {
+    "title ": "HEARTSTOPPER 3",
+    "author(s) ": "OSEMAN, ALICE",
+    "price ": "$1.899,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683026.jpg"
+  },
+  {
+    "title ": "RESETEA TUS INTESTINOS",
+    "author(s) ": "PEREYRA, FACUNDO",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693797.jpg"
+  },
+  {
+    "title ": "AL FINAL MUEREN LOS DOS",
+    "author(s) ": "SILVERA, ADAM",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/646539.jpg"
+  },
+  {
+    "title ": "HEARTSTOPPER 4",
+    "author(s) ": "OSEMAN, ALICE",
+    "price ": "$1.899,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687130.jpg"
+  },
+  {
+    "title ": "EL MUNDO DE LYNA",
+    "author(s) ": "LYNA VALLEJOS",
+    "price ": "$1.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/675202.jpg"
+  },
+  {
+    "title ": "JUGA CON LYNA",
+    "author(s) ": "LYNA VALLEJOS",
+    "price ": "$1.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677877.jpg"
+  },
+  {
+    "title ": "BOULEVARD 1",
+    "author(s) ": "SALVADOR, FLOR M.",
+    "price ": "$3.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691678.jpg"
+  },
+  {
+    "title ": "HEARTSTOPPER 1 TAPA NETFLIX",
+    "author(s) ": "OSEMAN, ALICE",
+    "price ": "$1.899,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695253.jpg"
+  },
+  {
+    "title ": "DIAS DE LA REVOLUCION 180...",
+    "author(s) ": "SACHERI, EDUARDO",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694969.jpg"
+  },
+  {
+    "title ": "RIUSPLAY Y EL HECHIZO DE ...",
+    "author(s) ": "RIUSPLAY",
+    "price ": "$1.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682060.jpg"
+  },
+  {
+    "title ": "EL HECHIZO DEL AGUA",
+    "author(s) ": "BONELLI, FLORENCIA",
+    "price ": "$3.780,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693343.jpg"
+  },
+  {
+    "title ": "GATURRO 37",
+    "author(s) ": "NIK",
+    "price ": "$1.480,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695849.jpg"
+  },
+  {
+    "title ": "CUENTOS CORTOS PARA PINTAR",
+    "author(s) ": "LESCOAT, ELEN / ...",
+    "price ": "$1.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694755.jpg"
+  },
+  {
+    "title ": "PACK RELANZAMIENTO: UNA F...",
+    "author(s) ": "LYNA VALLEJOS",
+    "price ": "$5.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695941.jpg"
+  },
+  {
+    "title ": "VIOLETA",
+    "author(s) ": "ALLENDE, ISABEL",
+    "price ": "$4.449,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690814.jpg"
+  },
+  {
+    "title ": "ESTRES, SUFRIMIENTO Y FELICIDAD",
+    "author(s) ": "LOPEZ ROSETTI, D...",
+    "price ": "$3.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693454.jpg"
+  },
+  {
+    "title ": "VICNIX EN LA CIUDAD SECRETA (2)",
+    "author(s) ": "INVICTOR",
+    "price ": "$2.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694982.jpg"
+  },
+  {
+    "title ": "ANIQUILACION",
+    "author(s) ": "HOUELLEBECQ, MICHEL",
+    "price ": "$3.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696071.jpg"
+  },
+  {
+    "title ": "INVICTOR Y MAYO EN BUSCA ...",
+    "author(s) ": "INVICTOR Y MAYO",
+    "price ": "$2.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685507.jpg"
+  },
+  {
+    "title ": "LOVELESS",
+    "author(s) ": "OSEMAN, ALICE",
+    "price ": "$2.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692194.jpg"
+  },
+  {
+    "title ": "EL HOMBRE EN BUSCA DE SENTIDO",
+    "author(s) ": "FRANKL, VIKTOR EMIL",
+    "price ": "$2.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/613398.jpg"
+  },
+  {
+    "title ": "ENCANTO AVENTURAS DE PELICULA",
+    "author(s) ": "DISNEY, DISNEY",
+    "price ": "$4.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689250.jpg"
+  },
+  {
+    "title ": "LOS SIETE MARIDOS DE EVELYN HUGO",
+    "author(s) ": "JENKINS REID, TAYLOR",
+    "price ": "$3.190,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679908.jpg"
+  },
+  {
+    "title ": "EL LIBRO DE LOS PORQUES",
+    "author(s) ": "GOMEZ CARRIZO, PEDRO",
+    "price ": "$2.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/637314.jpg"
+  },
+  {
+    "title ": "LOS CUATRO ACUERDOS",
+    "author(s) ": "RUIZ, MIGUEL",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/459487.jpg"
+  },
+  {
+    "title ": "MAX, LA FUGITIVA",
+    "author(s) ": "YOVANOFF, BRENNA",
+    "price ": "$3.010,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/670158.jpg"
+  },
+  {
+    "title ": "QUE SEA MUTUO O NO SEA NADA",
+    "author(s) ": "BERTIZ, PAOLA",
+    "price ": "$2.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694753.jpg"
+  },
+  {
+    "title ": "ANTES DE DICIEMBRE",
+    "author(s) ": "MARCUS, JOANA",
+    "price ": "$4.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690124.jpg"
+  },
+  {
+    "title ": "PERDIDOS EN NUNCA JAMAS",
+    "author(s) ": "THOMAS, AIDEN",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692193.jpg"
+  },
+  {
+    "title ": "VICNIX PERDIDOS EN EL MAR",
+    "author(s) ": "ACENIX / INVICTOR",
+    "price ": "$2.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688256.jpg"
+  },
+  {
+    "title ": "TODO LO QUE NUNCA FUIMOS",
+    "author(s) ": "KELLEN, ALICE",
+    "price ": "$3.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684043.jpg"
+  },
+  {
+    "title ": "PIENSE Y HAGASE RICO",
+    "author(s) ": "HILL, NAPOLEON",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/644300.jpg"
+  },
+  {
+    "title ": "CUENTOS CORTOS PARA SOÑAR",
+    "author(s) ": "LESCOAT, ELEN / ...",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/668113.jpg"
+  },
+  {
+    "title ": "LA VACA SUS MIEDOS ATACA",
+    "author(s) ": "LYNCH, AGUSTINA",
+    "price ": "$2.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689236.jpg"
+  },
+  {
+    "title ": "NO SALGAS DE NOCHE",
+    "author(s) ": "WILLINGHAM, STACY",
+    "price ": "$2.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694057.jpg"
+  },
+  {
+    "title ": "ESTAS PARA MAS",
+    "author(s) ": "DE LUCIA, DANIELA",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691781.jpg"
+  },
+  {
+    "title ": "LIGHTYEAR AL INFINITO Y M...",
+    "author(s) ": "PIXAR, DISNEY",
+    "price ": "$4.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695569.jpg"
+  },
+  {
+    "title ": "QUIERO VERTE OTRA VEZ",
+    "author(s) ": "FONTANARROSA, RO...",
+    "price ": "$2.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696046.jpg"
+  },
+  {
+    "title ": "DEL QUERER AL HACER",
+    "author(s) ": "KRAAYENBRINK, JEREMY",
+    "price ": "$1.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682328.jpg"
+  },
+  {
+    "title ": "CLAROSCURO",
+    "author(s) ": "LARENN, LUZ",
+    "price ": "$2.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695679.jpg"
+  },
+  {
+    "title ": "QUIEN TIENE EL CONTROL? (...",
+    "author(s) ": "NICKELODEON",
+    "price ": "$1.119,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/665530.jpg"
+  },
+  {
+    "title ": "EL PREGUNTON ENCICLOPEDIA...",
+    "author(s) ": "TOYOS, MARIA ISABEL",
+    "price ": "$2.310,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693799.jpg"
+  },
+  {
+    "title ": "LAS PALABRAS JUSTAS",
+    "author(s) ": "BUSQUETS, MILENA",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696109.jpg"
+  },
+  {
+    "title ": "EL PREGUNTON",
+    "author(s) ": "TOYOS, MARIA ISABEL",
+    "price ": "$2.310,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/676701.jpg"
+  },
+  {
+    "title ": "EL CHICO QUE DIBUJABA CON...",
+    "author(s) ": "KELLEN, ALICE",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691015.jpg"
+  },
+  {
+    "title ": "EL PRINCIPITO",
+    "author(s) ": "DE SAINT-EXUPERY...",
+    "price ": "$2.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/617598.jpg"
+  },
+  {
+    "title ": "NOSOTROS EN LA LUNA",
+    "author(s) ": "KELLEN, ALICE",
+    "price ": "$3.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686658.jpg"
+  },
+  {
+    "title ": "EVA, ALFA Y OMEGA",
+    "author(s) ": "VENTURINI, AURORA",
+    "price ": "$2.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696161.jpg"
+  },
+  {
+    "title ": "CARAVAL",
+    "author(s) ": "GARBER, STEPHANIE",
+    "price ": "$2.590,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687214.jpg"
+  },
+  {
+    "title ": "LA VIDA INVISIBLE DE ADDIE LARUE",
+    "author(s) ": "SCHWAB, V.E.",
+    "price ": "$3.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681785.jpg"
+  },
+  {
+    "title ": "RENEGADOS",
+    "author(s) ": "MEYER, MARISSA",
+    "price ": "$2.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/646015.jpg"
+  },
+  {
+    "title ": "BRUJA BLANCA, LA ASESINO...",
+    "author(s) ": "MAHURIN, SHELBY",
+    "price ": "$2.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681830.jpg"
+  },
+  {
+    "title ": "PADRE RICO, PADRE POBRE (20 AÑOS)",
+    "author(s) ": "KIYOSAKI, ROBERT T.",
+    "price ": "$2.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/654281.jpg"
+  },
+  {
+    "title ": "POKEMON SUPER EXTRA DELUX...",
+    "author(s) ": "THE POKEMON COMPANY",
+    "price ": "$4.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694074.jpg"
+  },
+  {
+    "title ": "33 RAZONES PARA VOLVER A VERTE",
+    "author(s) ": "KELLEN, ALICE",
+    "price ": "$2.850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/667414.jpg"
+  },
+  {
+    "title ": "EL MAPA DE LOS ANHELOS",
+    "author(s) ": "KELLEN, ALICE",
+    "price ": "$3.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693471.jpg"
+  },
+  {
+    "title ": "LA TIA COSIMA",
+    "author(s) ": "BONELLI, FLORENCIA",
+    "price ": "$1.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677880.jpg"
+  },
+  {
+    "title ": "UN CUENTO PERFECTO",
+    "author(s) ": "BENAVENT, ELISABET",
+    "price ": "$5.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683283.jpg"
+  },
+  {
+    "title ": "TODA MAFALDA",
+    "author(s) ": "QUINO",
+    "price ": "$8.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/42032.jpg"
+  },
+  {
+    "title ": "LOS PELIGROS DE FUMAR EN LA CAMA",
+    "author(s) ": "ENRIQUEZ, MARIANA",
+    "price ": "$2.650,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/624009.jpg"
+  },
+  {
+    "title ": "STRANGER THINGS ROBIN LA REBELDE",
+    "author(s) ": "CAPETTA, A. R.",
+    "price ": "$2.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691865.jpg"
+  },
+  {
+    "title ": "CALLES",
+    "author(s) ": "PIGNA, FELIPE",
+    "price ": "$3.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693455.jpg"
+  },
+  {
+    "title ": "LA AMANTE DEL POPULISMO",
+    "author(s) ": "AGUINIS, MARCOS",
+    "price ": "$2.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695954.jpg"
+  },
+  {
+    "title ": "EL DIA QUE DEJO DE NEVAR EN ALASKA",
+    "author(s) ": "KELLEN, ALICE",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695034.jpg"
+  },
+  {
+    "title ": "TIERRA EN LOS BOLSILLOS",
+    "author(s) ": "MIRANDA, LAURA G.",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696189.jpg"
+  },
+  {
+    "title ": "GATURRO 36",
+    "author(s) ": "NIK",
+    "price ": "$1.480,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688682.jpg"
+  },
+  {
+    "title ": "LA VACA SE EMPACA",
+    "author(s) ": "LYNCH, AGUSTINA",
+    "price ": "$2.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679580.jpg"
+  },
+  {
+    "title ": "MORIR LO NECESARIO",
+    "author(s) ": "ROEMMERS, ALEJAN...",
+    "price ": "$2.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694092.jpg"
+  },
+  {
+    "title ": "LAS ALAS DE SOPHIE",
+    "author(s) ": "KELLEN, ALICE",
+    "price ": "$3.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694338.jpg"
+  },
+  {
+    "title ": "EL CLUB DE LOS PSICOPATAS",
+    "author(s) ": "KATZENBACH, JOHN",
+    "price ": "$5.149,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688265.jpg"
+  },
+  {
+    "title ": "LA VACA EN SU HAMACA",
+    "author(s) ": "LYNCH, AGUSTINA ...",
+    "price ": "$2.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/649061.jpg"
+  },
+  {
+    "title ": "365 ACTIVIDADES CON DINOSAURIOS",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695571.jpg"
+  },
+  {
+    "title ": "TEO Y ANA INVESTIGAN LA ARGENTINA",
+    "author(s) ": "GANDMAN, ALEXIEV",
+    "price ": "$2.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671443.jpg"
+  },
+  {
+    "title ": "HIJOS DEL REY, LOS ASESI...",
+    "author(s) ": "MAHURIN, SHELBY",
+    "price ": "$2.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681831.jpg"
+  },
+  {
+    "title ": "ERASE UNA VEZ UN CORAZON ROTO",
+    "author(s) ": "GARBER, STEPHANIE",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693811.jpg"
+  },
+  {
+    "title ": "REINO DE PAPEL",
+    "author(s) ": "RESCO, VICTORIA",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691143.jpg"
+  },
+  {
+    "title ": "CRONICAS DE SPIDERWICK, L...",
+    "author(s) ": "BLACK, HOLLY",
+    "price ": "$1.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695803.jpg"
+  },
+  {
+    "title ": "CUENTOS CORTOS PARA SOÑAR 4",
+    "author(s) ": "ZIMMERMANN, MABEL",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685401.jpg"
+  },
+  {
+    "title ": "MESSI, EL GENIO COMPLETO",
+    "author(s) ": "SENOSIAIN, ARIEL",
+    "price ": "$2.640,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690469.jpg"
+  },
+  {
+    "title ": "EL SUSURRO DE LAS MUJERES",
+    "author(s) ": "EXILART, GABRIELA",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694118.jpg"
+  },
+  {
+    "title ": "MASACRE EN EL COMEDOR",
+    "author(s) ": "REATO, CEFERINO",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691501.jpg"
+  },
+  {
+    "title ": "EL VIAJE DE TITA",
+    "author(s) ": "MELILLO, CARLA",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695257.jpg"
+  },
+  {
+    "title ": "VOY AL BAÑO",
+    "author(s) ": "ACUÑA, LOLY / MO...",
+    "price ": "$2.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679309.jpg"
+  },
+  {
+    "title ": "MI DIARIO SECRETO GRIS",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$3.749,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692507.jpg"
+  },
+  {
+    "title ": "CUENTOS CORTOS PARA SOÑAR 2",
+    "author(s) ": "VARIOS AUTORES",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/673647.jpg"
+  },
+  {
+    "title ": "CORONA DE HUESOS DORADOS, UNA (ARG)",
+    "author(s) ": "ARMENTROUT, JENN...",
+    "price ": "$3.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695807.jpg"
+  },
+  {
+    "title ": "SIMPLEMENTE CHARLI",
+    "author(s) ": "D'AMELIO, CHARLI",
+    "price ": "$1.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681457.jpg"
+  },
+  {
+    "title ": "NUESTRA PARTE DE NOCHE",
+    "author(s) ": "ENRIQUEZ, MARIANA",
+    "price ": "$4.150,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671549.jpg"
+  },
+  {
+    "title ": "MUCHAS VIDAS, MUCHOS MAESTROS",
+    "author(s) ": "WEISS, BRIAN",
+    "price ": "$3.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/656067.jpg"
+  },
+  {
+    "title ": "EL PODER DEL AHORA",
+    "author(s) ": "TOLLE, ECKHART",
+    "price ": "$3.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/552131.jpg"
+  },
+  {
+    "title ": "CUENTOS CORTOS PARA SOÑAR 5",
+    "author(s) ": "ACUÑA, LOLY / ZI...",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692882.jpg"
+  },
+  {
+    "title ": "LOS DOS AMORES DE MI VIDA",
+    "author(s) ": "JENKINS REID, TAYLOR",
+    "price ": "$3.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689139.jpg"
+  },
+  {
+    "title ": "UNICORNIOS ANIMALES PARA ARMAR",
+    "author(s) ": "DE ALVA, ANTONELA",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694658.jpg"
+  },
+  {
+    "title ": "ESTO ES UN GRAN CAOS (LOUD HOUSE 2)",
+    "author(s) ": "NICKELODEON",
+    "price ": "$1.119,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/666883.jpg"
+  },
+  {
+    "title ": "FLEUR MI DESESPERADA DECISION",
+    "author(s) ": "GODOY, ARIANA",
+    "price ": "$2.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692955.jpg"
+  },
+  {
+    "title ": "PRINCIPITO, EL BILINGUE",
+    "author(s) ": "DE SAINT-EXUPERY...",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/644299.jpg"
+  },
+  {
+    "title ": "QUE VIDA TAN LOCA! (LOUD HOUSE 3)",
+    "author(s) ": "NICKELODEON",
+    "price ": "$1.119,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/670438.jpg"
+  },
+  {
+    "title ": "LOS SIMPSON Y LA FILOSOFIA",
+    "author(s) ": "CONARD, MARK T. ...",
+    "price ": "$4.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689582.jpg"
+  },
+  {
+    "title ": "TRILOGIA FUEGO 3 CIUDADES DE FUEGO",
+    "author(s) ": "MARCUS, JOANA",
+    "price ": "$3.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696031.jpg"
+  },
+  {
+    "title ": "TIERRA DE LAS HISTORIAS 1...",
+    "author(s) ": "COLFER, CHRIS",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/614051.jpg"
+  },
+  {
+    "title ": "ALICIA EN EL PAIS DE LAS MARAVILLAS",
+    "author(s) ": "CARROLL, LEWIS /...",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/644267.jpg"
+  },
+  {
+    "title ": "GALLANT",
+    "author(s) ": "SCHWAB, V.E.",
+    "price ": "$2.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693295.jpg"
+  },
+  {
+    "title ": "APRENDE A DIBUJAR PERSONAJES MANGA",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$2.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695568.jpg"
+  },
+  {
+    "title ": "SOLTAR PARA SER FELIZ",
+    "author(s) ": "MASSACCESI, MARI...",
+    "price ": "$2.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678454.jpg"
+  },
+  {
+    "title ": "365 ACTIVIDADES CON PRINC...",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695570.jpg"
+  },
+  {
+    "title ": "SECRETO DE CONFESION",
+    "author(s) ": "RUBIN, SERGIO",
+    "price ": "$3.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696806.jpg"
+  },
+  {
+    "title ": "ROMA SOY YO",
+    "author(s) ": "POSTEGUILLO, SAN...",
+    "price ": "$5.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693001.jpg"
+  },
+  {
+    "title ": "1984",
+    "author(s) ": "ORWELL, GEORGE",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/652063.jpg"
+  },
+  {
+    "title ": "DIARIO DE UNA TEMPORADA E...",
+    "author(s) ": "TORRE, JUAN CARLOS",
+    "price ": "$4.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686601.jpg"
+  },
+  {
+    "title ": "MI PRIMER LIBRO DE ASTROLOGIA (ARG)",
+    "author(s) ": "POND, DAVID",
+    "price ": "$2.190,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695802.jpg"
+  },
+  {
+    "title ": "MEDICINA PREVENTIVA EN TU COCINA",
+    "author(s) ": "RAELE, FLORENCIA...",
+    "price ": "$6.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694334.jpg"
+  },
+  {
+    "title ": "ASESINO DE BRUJAS 3 DIOSE...",
+    "author(s) ": "MAHURIN, SHELBY",
+    "price ": "$2.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688203.jpg"
+  },
+  {
+    "title ": "SOY UNA TONTA POR QUERERTE",
+    "author(s) ": "SOSA VILLADA, CAMILA",
+    "price ": "$2.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692094.jpg"
+  },
+  {
+    "title ": "TU PUEDES TENER UNA GRAN VIDA",
+    "author(s) ": "CARNEGIE, DALE",
+    "price ": "$2.290,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695833.jpg"
+  },
+  {
+    "title ": "NO SOY NADA SIN TU AMOR",
+    "author(s) ": "FAUR, PATRICIA",
+    "price ": "$2.630,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687544.jpg"
+  },
+  {
+    "title ": "ORGULLO Y PREJUICIO",
+    "author(s) ": "AUSTEN, JANE",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657964.jpg"
+  },
+  {
+    "title ": "LIDERAZGO EXITOSO",
+    "author(s) ": "STAMATEAS, BERNARDO",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681474.jpg"
+  },
+  {
+    "title ": "EL BOSQUE DE LAS COSAS PERDIDAS",
+    "author(s) ": "ERNSHAW, SHEA",
+    "price ": "$2.690,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683674.jpg"
+  },
+  {
+    "title ": "EL EL CUARTEL CACHORRO H...",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694666.jpg"
+  },
+  {
+    "title ": "ROJO, BLANCO Y SANGRE AZUL",
+    "author(s) ": "MCQUISTON, CASEY",
+    "price ": "$4.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687955.jpg"
+  },
+  {
+    "title ": "LA HISTORIA COMO NUNCA AN...",
+    "author(s) ": "DONZE, JAVIER R.",
+    "price ": "$3.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657292.jpg"
+  },
+  {
+    "title ": "COLORES",
+    "author(s) ": "PIÑEIRO, AZUL / ...",
+    "price ": "$2.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684675.jpg"
+  },
+  {
+    "title ": "HECHA DE ESTRELLAS",
+    "author(s) ": "HERRING BLAKE, A...",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/665999.jpg"
+  },
+  {
+    "title ": "LA BATALLA CULTURAL",
+    "author(s) ": "LAJE, AGUSTIN",
+    "price ": "$5.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692473.jpg"
+  },
+  {
+    "title ": "SUPERHEROES",
+    "author(s) ": "EUGENI, SOFIA",
+    "price ": "$1.510,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/673648.jpg"
+  },
+  {
+    "title ": "TEO Y ANA INVESTIGAN LA HISTORIA",
+    "author(s) ": "GANDMAN, ALEXIEV",
+    "price ": "$2.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694754.jpg"
+  },
+  {
+    "title ": "LEGENDARY",
+    "author(s) ": "GARBER, STEPHANIE",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688201.jpg"
+  },
+  {
+    "title ": "TEO Y ANA INVESTIGAN LOS ANIMALES",
+    "author(s) ": "GANDMAN, ALEXIEV",
+    "price ": "$2.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678455.jpg"
+  },
+  {
+    "title ": "LA VOZ DE TU ALMA",
+    "author(s) ": "GARCIA CALVO, LAIN",
+    "price ": "$3.690,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/655961.jpg"
+  },
+  {
+    "title ": "PERCY J DIOSES DEL OLIMPO...",
+    "author(s) ": "RIORDAN, RICK",
+    "price ": "$3.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677244.jpg"
+  },
+  {
+    "title ": "500 STICKERS DE DINOSAURIOS",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$1.459,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695577.jpg"
+  },
+  {
+    "title ": "SAPIENS DE ANIMALES A DIOSES",
+    "author(s) ": "HARARI, YUVAL NOAH",
+    "price ": "$4.749,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/585229.jpg"
+  },
+  {
+    "title ": "TIM TE MARO Y LA MAGIA DE...",
+    "author(s) ": "VALLEY, H.S.",
+    "price ": "$2.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695259.jpg"
+  },
+  {
+    "title ": "CUADERNO DE UNICORNIOS",
+    "author(s) ": "MELILLO, CARLA",
+    "price ": "$999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663446.jpg"
+  },
+  {
+    "title ": "UN MUNDO FELIZ",
+    "author(s) ": "HUXLEY, ALDOUS",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657943.jpg"
+  },
+  {
+    "title ": "VOY A DORMIR EN MI CAMA",
+    "author(s) ": "MORA, CAROLINA",
+    "price ": "$2.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682657.jpg"
+  },
+  {
+    "title ": "PENSAR A LA JAPONESA",
+    "author(s) ": "YEN MAI, LE",
+    "price ": "$1.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696278.jpg"
+  },
+  {
+    "title ": "BROTA",
+    "author(s) ": "LOPATA, GUILLERMINA",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686373.jpg"
+  },
+  {
+    "title ": "PERRERIAS DE MIKE 1, LAS ...",
+    "author(s) ": "MIKECRACK, EL TR...",
+    "price ": "$3.750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693544.jpg"
+  },
+  {
+    "title ": "CORALINE",
+    "author(s) ": "GAIMAN, NEIL",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/676664.jpg"
+  },
+  {
+    "title ": "CRIMEN Y CASTIGO",
+    "author(s) ": "DOSTOIEVSKI, FIO...",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657960.jpg"
+  },
+  {
+    "title ": "NO AMARAS",
+    "author(s) ": "PRONSKY, LORENA",
+    "price ": "$3.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689595.jpg"
+  },
+  {
+    "title ": "GENTE NORMAL",
+    "author(s) ": "ROONEY, SALLY",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677443.jpg"
+  },
+  {
+    "title ": "ELLA Y SU GATO",
+    "author(s) ": "SHINKAI, MAKOTO ...",
+    "price ": "$2.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691973.jpg"
+  },
+  {
+    "title ": "REINO DE CARNE Y FUEGO, U...",
+    "author(s) ": "ARMENTROUT, JENN...",
+    "price ": "$3.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692197.jpg"
+  },
+  {
+    "title ": "CUENTOS EXTRAORDINARIOS ...",
+    "author(s) ": "POE, EDGAR ALLAN",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672343.jpg"
+  },
+  {
+    "title ": "LA PESTE",
+    "author(s) ": "CAMUS, ALBERT",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/652071.jpg"
+  },
+  {
+    "title ": "EL PELIGRO DE ESTAR CUERDA",
+    "author(s) ": "MONTERO, ROSA",
+    "price ": "$3.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693461.jpg"
+  },
+  {
+    "title ": "ACTIVA TU CONFIANZA",
+    "author(s) ": "MARKWAY, BARBARA...",
+    "price ": "$1.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696186.jpg"
+  },
+  {
+    "title ": "SERENDIPITY",
+    "author(s) ": "MEYER, MARISSA",
+    "price ": "$2.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694138.jpg"
+  },
+  {
+    "title ": "LA PANDA AMANDA",
+    "author(s) ": "ZUCCHI, ALESSIA",
+    "price ": "$1.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/645286.jpg"
+  },
+  {
+    "title ": "100% DULCE",
+    "author(s) ": "COLOMBO DUCRET, ...",
+    "price ": "$4.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696058.jpg"
+  },
+  {
+    "title ": "EL PREGUNTON: ENCICLOPEDI...",
+    "author(s) ": "TOYOS, MARIA ISABEL",
+    "price ": "$2.310,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686345.jpg"
+  },
+  {
+    "title ": "OPEN MEMORIAS",
+    "author(s) ": "AGASSI, ANDRE",
+    "price ": "$3.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/629659.jpg"
+  },
+  {
+    "title ": "DIARIO DE PILAR EN GRECIA",
+    "author(s) ": "LINS E SILVA, FLAVIA",
+    "price ": "$1.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/582016.jpg"
+  },
+  {
+    "title ": "SONAJERO MASCOTAS",
+    "author(s) ": "EL ATENEO / PIER...",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689983.jpg"
+  },
+  {
+    "title ": "ORGULLO Y PREJUICIO",
+    "author(s) ": "AUSTEN, JANE",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/572809.jpg"
+  },
+  {
+    "title ": "DIARIO DE PILAR EN EGIPTO",
+    "author(s) ": "LINS E SILVA, FL...",
+    "price ": "$1.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/618510.jpg"
+  },
+  {
+    "title ": "RUSIA REVOLUCION Y GUERRA...",
+    "author(s) ": "BEEVOR, ANTONY",
+    "price ": "$4.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696164.jpg"
+  },
+  {
+    "title ": "EN EL MAR ANIMALES PARA ARMAR",
+    "author(s) ": "DE ALVA, ANTONELA",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694661.jpg"
+  },
+  {
+    "title ": "POESIA COMPLETA PIZARNIK",
+    "author(s) ": "PIZARNIK, ALEJANDRA",
+    "price ": "$4.449,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671126.jpg"
+  },
+  {
+    "title ": "1000 CITAS QUE INVITAN A PENSAR",
+    "author(s) ": "BOLINCHES, ANTONI",
+    "price ": "$1.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695827.jpg"
+  },
+  {
+    "title ": "ANTOLOGIA DEL TERROR LOVECRAFT",
+    "author(s) ": "LOVECRAFT, HOWAR...",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672342.jpg"
+  },
+  {
+    "title ": "MUJERCITAS",
+    "author(s) ": "ALCOTT, LOUISA MAY",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672333.jpg"
+  },
+  {
+    "title ": "ASYLUM",
+    "author(s) ": "ROUX, MEDELAINE",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/577232.jpg"
+  },
+  {
+    "title ": "LOS SEIS DE ATLAS",
+    "author(s) ": "BLAKE, OLIVIE",
+    "price ": "$2.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695028.jpg"
+  },
+  {
+    "title ": "EN LA GRANJA ANIMALES PARA ARMAR",
+    "author(s) ": "DE ALVA, ANTONELA",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694662.jpg"
+  },
+  {
+    "title ": "ENCICLOPEDIA DE DINOSAURIOS",
+    "author(s) ": "COLSON, ROB",
+    "price ": "$2.970,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/667000.jpg"
+  },
+  {
+    "title ": "LAS COSAS QUE PERDIMOS EN EL FUEGO",
+    "author(s) ": "ENRIQUEZ, MARIANA",
+    "price ": "$2.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/611326.jpg"
+  },
+  {
+    "title ": "HP2CAMARA SECRETA (CS)(TB)(2020)",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$3.099,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/676275.jpg"
+  },
+  {
+    "title ": "¡LISTOS PARA AYUDAR! HI...",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694665.jpg"
+  },
+  {
+    "title ": "TRILOGIA FUEGO 1 CIUDADES DE HUMO",
+    "author(s) ": "MARCUS, JOANA",
+    "price ": "$3.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692062.jpg"
+  },
+  {
+    "title ": "INFOCRACIA",
+    "author(s) ": "HAN, BYUNG-CHUL",
+    "price ": "$1.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692990.jpg"
+  },
+  {
+    "title ": "UN EQUIPO EXTRAORDINARIO ...",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694664.jpg"
+  },
+  {
+    "title ": "UNICORNIOS",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696404.jpg"
+  },
+  {
+    "title ": "AMANTES DE BUENOS AIRES",
+    "author(s) ": "SANTOS, ALBERTO S.",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682010.jpg"
+  },
+  {
+    "title ": "RETRATO DE DORIAN GRAY, E...",
+    "author(s) ": "WILDE, OSCAR",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672340.jpg"
+  },
+  {
+    "title ": "POR QUE DECIMOS?",
+    "author(s) ": "LOPEZ, CHARLIE",
+    "price ": "$1.940,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663475.jpg"
+  },
+  {
+    "title ": "EL ARTE DE LA GUERRA",
+    "author(s) ": "SUN TZU",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/644276.jpg"
+  },
+  {
+    "title ": "101 PREGUNTAS Y CURIOSIDA...",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$1.429,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695574.jpg"
+  },
+  {
+    "title ": "ENOLA HOLMES 1 EL CASO DE...",
+    "author(s) ": "SPRINGER, NANCY",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690127.jpg"
+  },
+  {
+    "title ": "LA BAILARINA DE AUSCHWITZ",
+    "author(s) ": "EGER, EDITH EVA",
+    "price ": "$3.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/646035.jpg"
+  },
+  {
+    "title ": "MI PLANTA DE NARANJA LIMA...",
+    "author(s) ": "DE VASCONCELOS, ...",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672057.jpg"
+  },
+  {
+    "title ": "CUANDO NO QUEDEN MAS ESTR...",
+    "author(s) ": "MARTINEZ, MARIA",
+    "price ": "$3.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692063.jpg"
+  },
+  {
+    "title ": "ES ESTRES O TU TIROIDES?",
+    "author(s) ": "BUSNELLI, MARIA ...",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691779.jpg"
+  },
+  {
+    "title ": "500 STICKERS DE ANIMALES",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$1.459,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695579.jpg"
+  },
+  {
+    "title ": "LA ESCUELA DEL BIEN Y DEL MAL",
+    "author(s) ": "CHAINANI, SOMAN",
+    "price ": "$2.690,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/667156.jpg"
+  },
+  {
+    "title ": "HP1PIEDRA FILOSOFAL (CS)(TBS)(2019)",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$4.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677655.jpg"
+  },
+  {
+    "title ": "SIN LIMITES",
+    "author(s) ": "KWIK, JIM",
+    "price ": "$2.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695832.jpg"
+  },
+  {
+    "title ": "HASTA QUE NOS QUEDEMOS SI...",
+    "author(s) ": "RUBIALES, INMA",
+    "price ": "$3.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694339.jpg"
+  },
+  {
+    "title ": "101 PREGUNTAS Y CURIOSIDA...",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$1.429,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695573.jpg"
+  },
+  {
+    "title ": "FITNESS ESPIRITUAL",
+    "author(s) ": "D'ANDRAIA, AGUSTINA",
+    "price ": "$2.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695978.jpg"
+  },
+  {
+    "title ": "MENTE MILLONARIA",
+    "author(s) ": "GARCIA MANJARREZ...",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661056.jpg"
+  },
+  {
+    "title ": "EL REY OSCURO",
+    "author(s) ": "PACAT, C.S.",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695822.jpg"
+  },
+  {
+    "title ": "CUMBRES BORRASCOSAS",
+    "author(s) ": "BRONTE, EMILY",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672330.jpg"
+  },
+  {
+    "title ": "EN LA SELVA ANIMALES PARA ARMAR",
+    "author(s) ": "DE ALVA, ANTONELA",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694660.jpg"
+  },
+  {
+    "title ": "LA VACA Y LA ESPINACA",
+    "author(s) ": "LYNCH, AGUSTINA ...",
+    "price ": "$2.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/665952.jpg"
+  },
+  {
+    "title ": "UN DESASTRE DE CUMPLEAÑO...",
+    "author(s) ": "D' ANTIOCHIA, MA...",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/648773.jpg"
+  },
+  {
+    "title ": "LOS COMPAS Y LA ENTIDAD EXE",
+    "author(s) ": "MIKECRACK, EL TR...",
+    "price ": "$3.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689695.jpg"
+  },
+  {
+    "title ": "CUENTOS HERMANOS GRIMM",
+    "author(s) ": "GRIMM, JACOB Y W...",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672334.jpg"
+  },
+  {
+    "title ": "(MUY) BREVE HISTORIA DE L...",
+    "author(s) ": "GEE, HENRY",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695801.jpg"
+  },
+  {
+    "title ": "ALICIA EN EL PAIS DE LAS ...",
+    "author(s) ": "CARROLL, LEWIS",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672339.jpg"
+  },
+  {
+    "title ": "REBELION EN LA GRANJA",
+    "author(s) ": "ORWELL, GEORGE",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/652067.jpg"
+  },
+  {
+    "title ": "RAVENSONG LA CANCION DEL CUERVO",
+    "author(s) ": "KLUNE, TJ",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677703.jpg"
+  },
+  {
+    "title ": "DIARIO DE PILAR EN CHINA",
+    "author(s) ": "LINS E SILVA, FLAVIA",
+    "price ": "$1.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/653299.jpg"
+  },
+  {
+    "title ": "(MAL) EDUCADAS",
+    "author(s) ": "FREIJO, MARIA FL...",
+    "price ": "$2.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677963.jpg"
+  },
+  {
+    "title ": "COMO GANAR AMIGOS",
+    "author(s) ": "CARNEGIE, DALE",
+    "price ": "$4.449,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/30243.jpg"
+  },
+  {
+    "title ": "WILLIAMS SHAKESPEARE 5 O...",
+    "author(s) ": "SHAKESPEARE, WILLIAM",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672350.jpg"
+  },
+  {
+    "title ": "BALADA DE PAJAROS CANTORE...",
+    "author(s) ": "COLLINS, SUZANNE",
+    "price ": "$4.149,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687956.jpg"
+  },
+  {
+    "title ": "HP2CAMARA SECRETA (CS)(TBS)(2019)",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$4.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678298.jpg"
+  },
+  {
+    "title ": "DIARIO DE PILAR EN AMAZONAS",
+    "author(s) ": "LINS E SILVA, FLAVIA",
+    "price ": "$1.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/592540.jpg"
+  },
+  {
+    "title ": "TODO LO QUE SOMOS JUNTOS",
+    "author(s) ": "KELLEN, ALICE",
+    "price ": "$3.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684921.jpg"
+  },
+  {
+    "title ": "DISEÑA TU PROPIA GRANJA",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696421.jpg"
+  },
+  {
+    "title ": "RESUELVE EL MISTERIO 1 EL...",
+    "author(s) ": "MAGAZINER, LAUREN",
+    "price ": "$2.849,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691629.jpg"
+  },
+  {
+    "title ": "DIARIO DE PILAR EN INDIA",
+    "author(s) ": "LINS E SILVA, FLAVIA",
+    "price ": "$1.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693833.jpg"
+  },
+  {
+    "title ": "DE SANGRE Y CENIZAS",
+    "author(s) ": "ARMENTROUT, JENNIFER",
+    "price ": "$3.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687216.jpg"
+  },
+  {
+    "title ": "FUEGO VERDE",
+    "author(s) ": "GELB, DONNA / KA...",
+    "price ": "$5.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694107.jpg"
+  },
+  {
+    "title ": "MIL BESOS TUYOS",
+    "author(s) ": "COLE, TILLIE",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691016.jpg"
+  },
+  {
+    "title ": "LOS HERMANOS KARAMAZOV",
+    "author(s) ": "DOSTOIEVSKY, FIODOR",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657941.jpg"
+  },
+  {
+    "title ": "UNA LECCION DE TINTA Y VENGANZA",
+    "author(s) ": "LEE, VICTORIA",
+    "price ": "$2.590,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695826.jpg"
+  },
+  {
+    "title ": "AMULETO EL GUARDIAN DE LA PIEDRA",
+    "author(s) ": "KAZU KIBUISHI",
+    "price ": "$2.544,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/615762.jpg"
+  },
+  {
+    "title ": "LA RANA LILIANA",
+    "author(s) ": "ZUCCHI, ALESSIA",
+    "price ": "$1.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/645291.jpg"
+  },
+  {
+    "title ": "365 ACTIVIDADES PARA DIVE...",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689238.jpg"
+  },
+  {
+    "title ": "MIS PRIMEROS CUENTOS",
+    "author(s) ": "AUTORES VARIOS",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/556392.jpg"
+  },
+  {
+    "title ": "EL PRINCIPITO",
+    "author(s) ": "SAINT-EXUPERY, A...",
+    "price ": "$1.850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679310.jpg"
+  },
+  {
+    "title ": "TYA SUAVES TEXTURAS EN EL...",
+    "author(s) ": "ANONIMO",
+    "price ": "$2.398,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685907.jpg"
+  },
+  {
+    "title ": "CATEDRALES",
+    "author(s) ": "PIÑEIRO, CLAUDIA",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/674378.jpg"
+  },
+  {
+    "title ": "HP8LEGADO MALDITO (CS)(TB)",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$3.099,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685531.jpg"
+  },
+  {
+    "title ": "EL ITALIANO",
+    "author(s) ": "PEREZ-REVERTE, A...",
+    "price ": "$4.449,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687495.jpg"
+  },
+  {
+    "title ": "AVENTURAS DE SHERLOCK HOL...",
+    "author(s) ": "CONAN DOYLE, SIR...",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672352.jpg"
+  },
+  {
+    "title ": "EMMA",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695067.jpg"
+  },
+  {
+    "title ": "500 STICKERS DE UNICORNIOS",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$1.459,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695576.jpg"
+  },
+  {
+    "title ": "CINDER",
+    "author(s) ": "MEYER, MARISSA",
+    "price ": "$2.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/592538.jpg"
+  },
+  {
+    "title ": "UN LINAJE OSCURO",
+    "author(s) ": "VILCHEZ, VICTORIA",
+    "price ": "$3.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695819.jpg"
+  },
+  {
+    "title ": "MUNDO FRAGIL COLOREA LAS...",
+    "author(s) ": "ROSANES, KERBY",
+    "price ": "$1.529,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696188.jpg"
+  },
+  {
+    "title ": "BROTHERSONG: LA CANCION D...",
+    "author(s) ": "KLUNE, TJ",
+    "price ": "$2.899,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693831.jpg"
+  },
+  {
+    "title ": "DIARIO DE GREG 3 (TB) ¡E...",
+    "author(s) ": "KINNEY, JEFF",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687241.jpg"
+  },
+  {
+    "title ": "TODA MAFALDA",
+    "author(s) ": "QUINO",
+    "price ": "$8.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/42032.jpg"
+  },
+  {
+    "title ": "LA TIA COSIMA",
+    "author(s) ": "BONELLI, FLORENCIA",
+    "price ": "$1.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677880.jpg"
+  },
+  {
+    "title ": "LOS PELIGROS DE FUMAR EN LA CAMA",
+    "author(s) ": "ENRIQUEZ, MARIANA",
+    "price ": "$2.650,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/624009.jpg"
+  },
+  {
+    "title ": "EL DIA QUE DEJO DE NEVAR EN ALASKA",
+    "author(s) ": "KELLEN, ALICE",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695034.jpg"
+  },
+  {
+    "title ": "STRANGER THINGS ROBIN LA REBELDE",
+    "author(s) ": "CAPETTA, A. R.",
+    "price ": "$2.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691865.jpg"
+  },
+  {
+    "title ": "CALLES",
+    "author(s) ": "PIGNA, FELIPE",
+    "price ": "$3.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693455.jpg"
+  },
+  {
+    "title ": "LA AMANTE DEL POPULISMO",
+    "author(s) ": "AGUINIS, MARCOS",
+    "price ": "$2.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695954.jpg"
+  },
+  {
+    "title ": "TIERRA EN LOS BOLSILLOS",
+    "author(s) ": "MIRANDA, LAURA G.",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696189.jpg"
+  },
+  {
+    "title ": "GATURRO 36",
+    "author(s) ": "NIK",
+    "price ": "$1.480,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688682.jpg"
+  },
+  {
+    "title ": "LA VACA SE EMPACA",
+    "author(s) ": "LYNCH, AGUSTINA",
+    "price ": "$2.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679580.jpg"
+  },
+  {
+    "title ": "PIENSE Y HAGASE RICO",
+    "author(s) ": "HILL, NAPOLEON",
+    "price ": "$3.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684338.jpg"
+  },
+  {
+    "title ": "EL EL DIARIO DE ANA FRANK",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$2.329,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692477.jpg"
+  },
+  {
+    "title ": "EL PLACEBO ERES TU",
+    "author(s) ": "DISPENZA, JOE",
+    "price ": "$4.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/592776.jpg"
+  },
+  {
+    "title ": "CELEBRACION MEXICANA",
+    "author(s) ": "GUADAL, EDITORIAL",
+    "price ": "$1.139,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695580.jpg"
+  },
+  {
+    "title ": "MENTA GRANIZADA",
+    "author(s) ": "CAMARA, AGUS",
+    "price ": "$3.290,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689076.jpg"
+  },
+  {
+    "title ": "TODAS NUESTRAS NOCHES",
+    "author(s) ": "PIZZICOTTI, MAXI...",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681804.jpg"
+  },
+  {
+    "title ": "ANHELO DE RAICES",
+    "author(s) ": "SARTON, MAY",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693365.jpg"
+  },
+  {
+    "title ": "RATITAS 4, LAS SUPERAVENT...",
+    "author(s) ": "LAS RATITAS",
+    "price ": "$4.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694331.jpg"
+  },
+  {
+    "title ": "HP3PRISIONERO DE AZKABAN ...",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$3.099,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/676278.jpg"
+  },
+  {
+    "title ": "EN EL LIMBO",
+    "author(s) ": "BACHRACH, ESTANISLAO",
+    "price ": "$3.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679226.jpg"
+  },
+  {
+    "title ": "ESTO NUNCA EXISTIO",
+    "author(s) ": "GIARDINELLI, MEMPO",
+    "price ": "$2.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696097.jpg"
+  },
+  {
+    "title ": "ATLAS MUNDIAL DE CAMISETAS",
+    "author(s) ": "TURNER, A.",
+    "price ": "$7.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695113.jpg"
+  },
+  {
+    "title ": "TODAS ESAS COSAS QUE TE D...",
+    "author(s) ": "BENAVENT, ELISABET",
+    "price ": "$4.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694115.jpg"
+  },
+  {
+    "title ": "DINOSAURIOS ANIMALES PARA ARMAR",
+    "author(s) ": "DE ALVA, ANTONELA",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694657.jpg"
+  },
+  {
+    "title ": "CONSTITUCION NACIONAL",
+    "price ": "$800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/609572.jpg"
+  },
+  {
+    "title ": "COMO SER UNA BRUJA MODERNA",
+    "author(s) ": "HERSTIK, GABRIELA",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/660355.jpg"
+  },
+  {
+    "title ": "IKIGAI",
+    "author(s) ": "GARCIA, HECTOR /...",
+    "price ": "$2.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/616697.jpg"
+  },
+  {
+    "title ": "AVENTURAS EN LONDRES! (LA...",
+    "author(s) ": "D' ANTIOCHIA, MA...",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/650245.jpg"
+  },
+  {
+    "title ": "PERFECTOS MENTIROSOS 2",
+    "author(s) ": "MIREZ, ALEX",
+    "price ": "$3.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688274.jpg"
+  },
+  {
+    "title ": "101 MUJERES EXTRAORDINARIAS",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661702.jpg"
+  },
+  {
+    "title ": "COMO TRATAR CON GENTE DIFICIL",
+    "author(s) ": "VARIOS AUTORES",
+    "price ": "$1.116,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/668671.jpg"
+  },
+  {
+    "title ": "SERAS",
+    "author(s) ": "FRANCO, ANNA K.",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/662905.jpg"
+  },
+  {
+    "title ": "MY HERO ACADEMIA 03",
+    "author(s) ": "KOHEI HORIKOSHI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/646670.jpg"
+  },
+  {
+    "title ": "SADIE",
+    "author(s) ": "SUMMERS, COURTNEY",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/665998.jpg"
+  },
+  {
+    "title ": "COMO ME ENAMORE DE NICOLAS CAGE",
+    "author(s) ": "QUEVEDO, CARLA",
+    "price ": "$3.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690793.jpg"
+  },
+  {
+    "title ": "UNA MAÑANA DE LOCURA (LO...",
+    "author(s) ": "NICKELODEON",
+    "price ": "$1.119,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683820.jpg"
+  },
+  {
+    "title ": "MALIBU RENACE",
+    "author(s) ": "JENKINS REID, TAYLOR",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683526.jpg"
+  },
+  {
+    "title ": "AVENTURA ZOMBIE EN MOVYDRILL",
+    "author(s) ": "ROBLEIS",
+    "price ": "$2.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/656623.jpg"
+  },
+  {
+    "title ": "7 VENDEDORES DE EXITO¿ Y...",
+    "author(s) ": "GUL VILDA, JESUS",
+    "price ": "$1.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695797.jpg"
+  },
+  {
+    "title ": "ANIMALES MI PRIMERA BIBLIOTECA",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$4.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692503.jpg"
+  },
+  {
+    "title ": "GAMERS: QUIZ BOOK",
+    "author(s) ": "RAMOS, ARIEL ESTEBAN",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694671.jpg"
+  },
+  {
+    "title ": "EMOCIONARIO",
+    "author(s) ": "NUÑEZ PEREIRA, C...",
+    "price ": "$2.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/610758.jpg"
+  },
+  {
+    "title ": "BAJO EL BRILLO DE LA LUNA...",
+    "author(s) ": "QUINN, JULIA",
+    "price ": "$2.690,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695813.jpg"
+  },
+  {
+    "title ": "SUCEDIO UN VERANO",
+    "author(s) ": "BAILEY, TESSA",
+    "price ": "$3.050,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694292.jpg"
+  },
+  {
+    "title ": "HEARTSTOPPER PARA COLOREAR",
+    "author(s) ": "OSEMAN, ALICE",
+    "price ": "$1.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690548.jpg"
+  },
+  {
+    "title ": "FINALE (CARAVAL 3)",
+    "author(s) ": "GARBER, STEPHANIE",
+    "price ": "$3.190,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689137.jpg"
+  },
+  {
+    "title ": "EL CONDE DE MONTECRISTO",
+    "author(s) ": "DUMAS, ALEJANDRO",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657962.jpg"
+  },
+  {
+    "title ": "UNICORNIOS PALETA MAGICA...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692496.jpg"
+  },
+  {
+    "title ": "LOS LLANOS",
+    "author(s) ": "FALCO, FEDERICO",
+    "price ": "$2.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679363.jpg"
+  },
+  {
+    "title ": "LAS MIL Y UNA NOCHES",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695066.jpg"
+  },
+  {
+    "title ": "MANUAL DE SUPERVIVENCIA",
+    "author(s) ": "PAULINA COCINA",
+    "price ": "$3.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694083.jpg"
+  },
+  {
+    "title ": "COLOR BLOCK ANIMALIA",
+    "author(s) ": "OCHOA, NAIDA JAZMIN",
+    "price ": "$1.099,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696192.jpg"
+  },
+  {
+    "title ": "DIARIO DE GREG 1 (TB) UN RENACUAJO",
+    "author(s) ": "KINNEY, JEFF",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687242.jpg"
+  },
+  {
+    "title ": "PINTO POP IT CON 650 STIC...",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696505.jpg"
+  },
+  {
+    "title ": "LA ANA DE LAS TEJAS VERDE...",
+    "author(s) ": "MONTGOMERY, L.M.",
+    "price ": "$1.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688280.jpg"
+  },
+  {
+    "title ": "MUNDO FRAGIL COLOREA LAS...",
+    "author(s) ": "ROSANES, KERBY",
+    "price ": "$1.529,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696188.jpg"
+  },
+  {
+    "title ": "EN BUSQUEDA DE LA FELICIDAD",
+    "author(s) ": "SAUMANDE, JULIET...",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/595692.jpg"
+  },
+  {
+    "title ": "MUJERES QUE CORREN CON LO...",
+    "author(s) ": "ESTES, CLARISSA ...",
+    "price ": "$5.849,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690051.jpg"
+  },
+  {
+    "title ": "MIL BESOS TUYOS",
+    "author(s) ": "COLE, TILLIE",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691016.jpg"
+  },
+  {
+    "title ": "COMO MANTENER UNA CONVERS...",
+    "author(s) ": "HARVARD BUSINESS...",
+    "price ": "$1.551,60",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696635.jpg"
+  },
+  {
+    "title ": "TYA SUAVES TEXTURAS EN LA...",
+    "author(s) ": "ANONIMO",
+    "price ": "$2.398,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685905.jpg"
+  },
+  {
+    "title ": "EL EL PRINCIPITO",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$749,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696525.jpg"
+  },
+  {
+    "title ": "POETA CHILENO",
+    "author(s) ": "ZAMBRA, ALEJANDRO",
+    "price ": "$3.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677779.jpg"
+  },
+  {
+    "title ": "(MAL) EDUCADAS",
+    "author(s) ": "FREIJO, MARIA FL...",
+    "price ": "$2.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677963.jpg"
+  },
+  {
+    "title ": "MINDFULNESS ATENCION PLENA",
+    "author(s) ": "HARVARD BUSINESS...",
+    "price ": "$1.116,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/649547.jpg"
+  },
+  {
+    "title ": "HECHA DE ESTRELLAS",
+    "author(s) ": "HERRING BLAKE, A...",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/665999.jpg"
+  },
+  {
+    "title ": "ANNE SIN FILTROS",
+    "author(s) ": "M. PASCUAL, SELE...",
+    "price ": "$3.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687505.jpg"
+  },
+  {
+    "title ": "ENOLA HOLMES 1 EL CASO DE...",
+    "author(s) ": "SPRINGER, NANCY",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690127.jpg"
+  },
+  {
+    "title ": "EN EL MAR ANIMALES PARA ARMAR",
+    "author(s) ": "DE ALVA, ANTONELA",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694661.jpg"
+  },
+  {
+    "title ": "CONSTITUCION NACIONAL",
+    "price ": "$800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/609572.jpg"
+  },
+  {
+    "title ": "CONFIANZA INTELIGENCIA EMOCIONAL",
+    "author(s) ": "HARVARD BUSINESS...",
+    "price ": "$1.551,60",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696631.jpg"
+  },
+  {
+    "title ": "CUERPO HUMANO CONSTRUYE",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$3.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696407.jpg"
+  },
+  {
+    "title ": "365 PREGUNTAS Y CURIOSIDA...",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$3.749,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696501.jpg"
+  },
+  {
+    "title ": "EL MEDALLON DE FUEGO",
+    "author(s) ": "MONTERO, CARLA",
+    "price ": "$4.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695966.jpg"
+  },
+  {
+    "title ": "ES ESTRES O TU TIROIDES?",
+    "author(s) ": "BUSNELLI, MARIA ...",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691779.jpg"
+  },
+  {
+    "title ": "50 CUENTOS PARA LEER EN 1...",
+    "author(s) ": "NIK",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/660379.jpg"
+  },
+  {
+    "title ": "EL ZOO DE JOAQUIN (RUSTICA)",
+    "author(s) ": "BERNASCONI, PABLO",
+    "price ": "$1.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/564551.jpg"
+  },
+  {
+    "title ": "ANIMALES CHAMANICOS DE PODER",
+    "author(s) ": "RUIZ, JOSE",
+    "price ": "$2.150,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695043.jpg"
+  },
+  {
+    "title ": "FIVE NIGHTS AT FREDDY'S 2",
+    "author(s) ": "CAWTHON, SCOTT /...",
+    "price ": "$3.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657854.jpg"
+  },
+  {
+    "title ": "VENAS ABIERTAS DE AMERICA...",
+    "author(s) ": "GALEANO, EDUARDO",
+    "price ": "$3.690,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682496.jpg"
+  },
+  {
+    "title ": "LA OSCURIDAD DE LOS COLORES",
+    "author(s) ": "BLASCO, MARTIN",
+    "price ": "$1.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661629.jpg"
+  },
+  {
+    "title ": "UN VERDOR TERRIBLE",
+    "author(s) ": "LABATUT, BENJAMIN",
+    "price ": "$2.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/680489.jpg"
+  },
+  {
+    "title ": "COMO SER UNA BRUJA MODERNA",
+    "author(s) ": "HERSTIK, GABRIELA",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/660355.jpg"
+  },
+  {
+    "title ": "MI LAPICERA DE LOS SECRETOS",
+    "author(s) ": "YOYO, LOS EDITOR...",
+    "price ": "$3.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694013.jpg"
+  },
+  {
+    "title ": "SOY UN GATO",
+    "author(s) ": "SOSEKI, NATSUME",
+    "price ": "$2.975,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694266.jpg"
+  },
+  {
+    "title ": "ALMENDRA",
+    "author(s) ": "SOHN WON-PYUNG",
+    "price ": "$2.540,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686340.jpg"
+  },
+  {
+    "title ": "POR QUE?: LOS ANIMALES",
+    "author(s) ": "YOYO, LOS EDITOR...",
+    "price ": "$3.590,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677428.jpg"
+  },
+  {
+    "title ": "LA PASION POR LA IGNORANCIA",
+    "author(s) ": "SALECL, RENATA",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695908.jpg"
+  },
+  {
+    "title ": "AMARSE PARA AMAR ¿ LAS A...",
+    "author(s) ": "LOBOS JORQUERA, ...",
+    "price ": "$3.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696221.jpg"
+  },
+  {
+    "title ": "BALADA DE PAJAROS CANTORE...",
+    "author(s) ": "COLLINS, SUZANNE",
+    "price ": "$4.149,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687956.jpg"
+  },
+  {
+    "title ": "LA HIJA UNICA",
+    "author(s) ": "NETTEL, GUADALUPE",
+    "price ": "$2.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678637.jpg"
+  },
+  {
+    "title ": "EL AUTENTICO LIDERAZGO",
+    "author(s) ": "VARIOS AUTORES",
+    "price ": "$1.116,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663058.jpg"
+  },
+  {
+    "title ": "AGATHA",
+    "author(s) ": "PIGNATARO, ANNA",
+    "price ": "$2.230,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/632045.jpg"
+  },
+  {
+    "title ": "ISADORA MOON 2 VA DE EXCURSION",
+    "author(s) ": "MUNCASTER, HARRIET",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/627536.jpg"
+  },
+  {
+    "title ": "DISNEY PRINCESAS COLORES ARIEL",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$2.789,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694667.jpg"
+  },
+  {
+    "title ": "DIAS DE CAMPAMENTO",
+    "author(s) ": "MAINE, MARGARITA...",
+    "price ": "$1.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/670186.jpg"
+  },
+  {
+    "title ": "VOLVER A MI",
+    "author(s) ": "MIRANDA, LAURA G.",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/662906.jpg"
+  },
+  {
+    "title ": "Y AHORA, ¿QUE?",
+    "author(s) ": "CONTRERA, ALDANA...",
+    "price ": "$3.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692861.jpg"
+  },
+  {
+    "title ": "LIBRO DE LETTERING",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$1.429,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/680613.jpg"
+  },
+  {
+    "title ": "VINCULEAR",
+    "author(s) ": "CE, CECILIA",
+    "price ": "$3.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693464.jpg"
+  },
+  {
+    "title ": "EL VERANO EN QUE MI MADRE...",
+    "author(s) ": "TIBULEAC, TATIANA",
+    "price ": "$3.150,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677394.jpg"
+  },
+  {
+    "title ": "ORBIL EL LIBRO SIN TON NI SON",
+    "author(s) ": "BRETT, ANNA / WA...",
+    "price ": "$1.570,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/621797.jpg"
+  },
+  {
+    "title ": "HUERTA",
+    "author(s) ": "SEQUEIRA, ALEJANDRO",
+    "price ": "$4.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695681.jpg"
+  },
+  {
+    "title ": "TE DOY MI CORAZON",
+    "author(s) ": "QUINN, JULIA",
+    "price ": "$3.190,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682293.jpg"
+  },
+  {
+    "title ": "TERCER PARAISO, EL(PREMIO...",
+    "author(s) ": "ALARCON, CRISTIAN",
+    "price ": "$3.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692975.jpg"
+  },
+  {
+    "title ": "ISADORA MOON 5 SE METE EN UN LIO",
+    "author(s) ": "MUNCASTER, HARRIET",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/652962.jpg"
+  },
+  {
+    "title ": "PROMISED NEVERLAND, THE 02",
+    "author(s) ": "KAIU SHIRAI / PO...",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/667633.jpg"
+  },
+  {
+    "title ": "ARISTOTELES Y DANTE DESCU...",
+    "author(s) ": "SAENZ, BENJAMIN",
+    "price ": "$3.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/595194.jpg"
+  },
+  {
+    "title ": "GATURRO 4 GATURRO Y LA IN...",
+    "author(s) ": "NIK",
+    "price ": "$1.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/626407.jpg"
+  },
+  {
+    "title ": "LOS VIKINGOS",
+    "author(s) ": "BOYER, REGIS",
+    "price ": "$3.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/649883.jpg"
+  },
+  {
+    "title ": "COLORES DE UNICORNIOS",
+    "author(s) ": "AUTORES VARIOS",
+    "price ": "$1.812,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695334.jpg"
+  },
+  {
+    "title ": "LA DIVINA COMEDIA",
+    "author(s) ": "ALIGHIERI, DANTE",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696432.jpg"
+  },
+  {
+    "title ": "ANIMALES DEL MAR MI PRIM...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691493.jpg"
+  },
+  {
+    "title ": "DIAS DE CAMPO",
+    "author(s) ": "MAINE, MARGARITA...",
+    "price ": "$1.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/670183.jpg"
+  },
+  {
+    "title ": "ARCHIENEMIGOS",
+    "author(s) ": "MEYER, MARISSA",
+    "price ": "$2.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663444.jpg"
+  },
+  {
+    "title ": "SUPER MANDALAS LIBRO 2",
+    "author(s) ": "ANONIMO",
+    "price ": "$790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695880.jpg"
+  },
+  {
+    "title ": "BRILLANTE COMO EL MAR",
+    "author(s) ": "MAGGI, PAULINA",
+    "price ": "$2.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694001.jpg"
+  },
+  {
+    "title ": "EL DISEÑO DEL MUNDO",
+    "author(s) ": "PELLEGRINI, FRANCO",
+    "price ": "$3.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696322.jpg"
+  },
+  {
+    "title ": "MANUAL DE SUPERVIVENCIA",
+    "author(s) ": "PAULINA COCINA",
+    "price ": "$3.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694083.jpg"
+  },
+  {
+    "title ": "ORGULLO Y PREJUICIO",
+    "author(s) ": "AUSTEN, JANE",
+    "price ": "$4.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/600078.jpg"
+  },
+  {
+    "title ": "AMAZON DESATADO (ARG)",
+    "author(s) ": "STONE, BRAD",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695799.jpg"
+  },
+  {
+    "title ": "365 CUENTOS PARA LEER ANT...",
+    "author(s) ": "DISNEY, DISNEY",
+    "price ": "$5.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683096.jpg"
+  },
+  {
+    "title ": "LAS MALAS",
+    "author(s) ": "SOSA VILLADA, CAMILA",
+    "price ": "$3.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/660932.jpg"
+  },
+  {
+    "title ": "LA LA ENCICLOPEDIA DE LOS...",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$4.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684540.jpg"
+  },
+  {
+    "title ": "DRAGON BALL SUPER 10",
+    "author(s) ": "AKIRA TORIYAMA /...",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/670707.jpg"
+  },
+  {
+    "title ": "EL MONSTRUO Y LA BIBLIOTECARIA",
+    "author(s) ": "GOMEZ CERDA, ALFREDO",
+    "price ": "$1.050,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/568021.jpg"
+  },
+  {
+    "title ": "HISTORIA DE SAN MARTIN Y ...",
+    "author(s) ": "MITRE, BARTOLOME",
+    "price ": "$6.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/516660.jpg"
+  },
+  {
+    "title ": "A(R)MAME",
+    "author(s) ": "LARENN, LUZ",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/673645.jpg"
+  },
+  {
+    "title ": "EL FUTURO DEL COMERCIO QUE SE VIENE",
+    "author(s) ": "DI PACE, DAMIAN",
+    "price ": "$2.590,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693818.jpg"
+  },
+  {
+    "title ": "CUENTOS CORTOS PARA SOÑAR 3",
+    "author(s) ": "VARIOS AUTORES",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678281.jpg"
+  },
+  {
+    "title ": "FORMAS Y OPUESTOS",
+    "author(s) ": "PIÑEIRO, AZUL / ...",
+    "price ": "$2.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686376.jpg"
+  },
+  {
+    "title ": "LEOTUBE 1 LEOTUBE Y LA MA...",
+    "author(s) ": "MARIA NIEVES JIM...",
+    "price ": "$2.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696037.jpg"
+  },
+  {
+    "title ": "PAW PATROL MI PRIMERA BIBLIOTECA",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$4.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692504.jpg"
+  },
+  {
+    "title ": "PAJAROS EN LA BOCA Y OTROS CUENTOS",
+    "author(s) ": "SCHWEBLIN, SAMANTA",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/647233.jpg"
+  },
+  {
+    "title ": "HP5ORDEN DEL FENIX (CS)(TB)(2020)",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$6.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/676280.jpg"
+  },
+  {
+    "title ": "NO HAY VERANO SIN TI (NE)",
+    "author(s) ": "HAN, JENNY",
+    "price ": "$2.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696032.jpg"
+  },
+  {
+    "title ": "A(R)MAME",
+    "author(s) ": "LARENN, LUZ",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/673645.jpg"
+  },
+  {
+    "title ": "EL FUTURO DEL COMERCIO QUE SE VIENE",
+    "author(s) ": "DI PACE, DAMIAN",
+    "price ": "$2.590,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693818.jpg"
+  },
+  {
+    "title ": "CUENTOS CORTOS PARA SOÑAR 3",
+    "author(s) ": "VARIOS AUTORES",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678281.jpg"
+  },
+  {
+    "title ": "STILL WITH ME",
+    "author(s) ": "DEL PILAR, LILY",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691017.jpg"
+  },
+  {
+    "title ": "EN EL MAR",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696405.jpg"
+  },
+  {
+    "title ": "TOKYO REVENGERS 03",
+    "author(s) ": "KAN WAKUI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693191.jpg"
+  },
+  {
+    "title ": "LIBERAME",
+    "author(s) ": "MAFI, TAHEREH",
+    "price ": "$2.650,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695033.jpg"
+  },
+  {
+    "title ": "ME ANIMO",
+    "author(s) ": "BERRI, PAZ / BER...",
+    "price ": "$2.630,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686372.jpg"
+  },
+  {
+    "title ": "GUILLERMO VILAS EL NUMERO UNO",
+    "author(s) ": "VINKER, LUIS",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696057.jpg"
+  },
+  {
+    "title ": "HP4CALIZ DE FUEGO (CS)(TB)(2020)",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$5.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/676279.jpg"
+  },
+  {
+    "title ": "EL PECADOR DE OXFORD",
+    "author(s) ": "PETRYK, MAR",
+    "price ": "$3.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694344.jpg"
+  },
+  {
+    "title ": "MAS VIVO QUE EL DIABLO",
+    "author(s) ": "HILL, NAPOLEON",
+    "price ": "$3.170,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684337.jpg"
+  },
+  {
+    "title ": "DRAGON BALL SUPER 08",
+    "author(s) ": "AKIRA TORIYAMA /...",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663367.jpg"
+  },
+  {
+    "title ": "EL TAO DE WARREN BUFFETT",
+    "author(s) ": "CLARK, DAVID",
+    "price ": "$2.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696168.jpg"
+  },
+  {
+    "title ": "LEGO CITY PERSECUCION A ...",
+    "author(s) ": "HASH(0X1DA4A210)...",
+    "price ": "$6.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672244.jpg"
+  },
+  {
+    "title ": "365 DIBUJOS PARA COLOREAR...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689237.jpg"
+  },
+  {
+    "title ": "SIMPLIFICA TU NEGOCIO",
+    "author(s) ": "MILLER, DONALD",
+    "price ": "$2.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696264.jpg"
+  },
+  {
+    "title ": "WARCROSS",
+    "author(s) ": "LU, MARIE",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/637860.jpg"
+  },
+  {
+    "title ": "EL DUQUE DE WYNDHAM",
+    "author(s) ": "QUINN, JULIA",
+    "price ": "$2.290,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695817.jpg"
+  },
+  {
+    "title ": "CUARENTA Y TRES MANERAS D...",
+    "author(s) ": "SASTRE, ELVIRA",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694354.jpg"
+  },
+  {
+    "title ": "HAMNET",
+    "author(s) ": "O'FARRELL, MAGGIE",
+    "price ": "$3.150,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684858.jpg"
+  },
+  {
+    "title ": "UNA LOCURA DE FAMILIA (LO...",
+    "author(s) ": "NICKELODEON",
+    "price ": "$1.119,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/669243.jpg"
+  },
+  {
+    "title ": "LAS CASUALIDADES NO EXISTEN",
+    "author(s) ": "VILASECA, BORJA",
+    "price ": "$3.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689604.jpg"
+  },
+  {
+    "title ": "TIERRA DE LAS HISTORIAS 2...",
+    "author(s) ": "COLFER, CHRIS",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/625485.jpg"
+  },
+  {
+    "title ": "SE REGALAN DUDAS",
+    "author(s) ": "LETY SAHAGUN Y A...",
+    "price ": "$3.899,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695948.jpg"
+  },
+  {
+    "title ": "ARIADNA",
+    "author(s) ": "SAINT, JENNIFER",
+    "price ": "$2.850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685219.jpg"
+  },
+  {
+    "title ": "ELECTRA",
+    "author(s) ": "SAINT, JENNIFER",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695823.jpg"
+  },
+  {
+    "title ": "RESILIENCIA",
+    "author(s) ": "HARVARD BUSINESS...",
+    "price ": "$1.116,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/649548.jpg"
+  },
+  {
+    "title ": "DALE LA VUELTA AL AUTISMO",
+    "author(s) ": "BARBERA, MARY LYNCH",
+    "price ": "$2.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695041.jpg"
+  },
+  {
+    "title ": "1001 COSAS DIVERTIDAS",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$1.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695586.jpg"
+  },
+  {
+    "title ": "LO MUCHO QUE TE AME",
+    "author(s) ": "SACHERI, EDUARDO",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/669245.jpg"
+  },
+  {
+    "title ": "LOS CHAKRAS",
+    "author(s) ": "LEADBEATER, CHAR...",
+    "price ": "$2.160,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696148.jpg"
+  },
+  {
+    "title ": "RIUS Y MONDONGO: UN VISIT...",
+    "author(s) ": "RIUS Y MONDONGO",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693547.jpg"
+  },
+  {
+    "title ": "PERCY J DIOSES DEL OLIMPO...",
+    "author(s) ": "RIORDAN, RICK",
+    "price ": "$3.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677241.jpg"
+  },
+  {
+    "title ": "BAJO ESTE SOL TREMENDO",
+    "author(s) ": "BUSQUED, CARLOS",
+    "price ": "$2.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/488366.jpg"
+  },
+  {
+    "title ": "TRES FORMAS DE TOMAR UN HELADO",
+    "author(s) ": "ESPECHE, ENRIQUE",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695680.jpg"
+  },
+  {
+    "title ": "DINOSAURIOS PALETA MAGIC...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692497.jpg"
+  },
+  {
+    "title ": "LA VIRGEN CABEZA",
+    "author(s) ": "CABEZON CAMARA, ...",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/664489.jpg"
+  },
+  {
+    "title ": "PERRO QUE LADRA",
+    "author(s) ": "TILL, ALDANA / R...",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693800.jpg"
+  },
+  {
+    "title ": "BILLY SUMMERS",
+    "author(s) ": "KING, STEPHEN",
+    "price ": "$6.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688251.jpg"
+  },
+  {
+    "title ": "DIAS DE MONTAÑA",
+    "author(s) ": "MAINE, MARGARITA...",
+    "price ": "$1.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/670185.jpg"
+  },
+  {
+    "title ": "SIRENITA, LA PARA COLOREAR",
+    "author(s) ": "ANDERSEN, HANS C...",
+    "price ": "$1.630,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/628254.jpg"
+  },
+  {
+    "title ": "DIARIO DE PILAR EN AFRICA",
+    "author(s) ": "LINS E SILVA, FL...",
+    "price ": "$1.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/644019.jpg"
+  },
+  {
+    "title ": "TU, YO Y UN TAL VEZ",
+    "author(s) ": "MARTINEZ, MARIA",
+    "price ": "$3.110,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695124.jpg"
+  },
+  {
+    "title ": "UNIVERSO CONSTRUYE",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$3.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696408.jpg"
+  },
+  {
+    "title ": "BLOOD ON THE TRACKS 01",
+    "author(s) ": "SHUZO OSHIMI",
+    "price ": "$850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695636.jpg"
+  },
+  {
+    "title ": "EL FUNCIONAMIENTO GENERAL DEL MUNDO",
+    "author(s) ": "SACHERI, EDUARDO",
+    "price ": "$4.449,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683842.jpg"
+  },
+  {
+    "title ": "LO MUCHO QUE TE AME",
+    "author(s) ": "SACHERI, EDUARDO",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/669245.jpg"
+  },
+  {
+    "title ": "DALE LA VUELTA AL AUTISMO",
+    "author(s) ": "BARBERA, MARY LYNCH",
+    "price ": "$2.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695041.jpg"
+  },
+  {
+    "title ": "1001 COSAS DIVERTIDAS",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$1.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695586.jpg"
+  },
+  {
+    "title ": "LOS CHAKRAS",
+    "author(s) ": "LEADBEATER, CHAR...",
+    "price ": "$2.160,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696148.jpg"
+  },
+  {
+    "title ": "CHAINSAW MAN 11",
+    "author(s) ": "TATSUKI FUJIMOTO",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693106.jpg"
+  },
+  {
+    "title ": "RIUS Y MONDONGO: UN VISIT...",
+    "author(s) ": "RIUS Y MONDONGO",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693547.jpg"
+  },
+  {
+    "title ": "ASESINATO EN EL LAGO SUNRISE",
+    "author(s) ": "FEEHAN, CHRISTINE",
+    "price ": "$2.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695035.jpg"
+  },
+  {
+    "title ": "CIENCIAS MORALES",
+    "author(s) ": "KOHAN, MARTIN",
+    "price ": "$2.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/463515.jpg"
+  },
+  {
+    "title ": "SEXO ANIMAL",
+    "author(s) ": "OLSZEVICKI, NICOLAS",
+    "price ": "$2.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696055.jpg"
+  },
+  {
+    "title ": "EL CAMINO DEL LIBERTARIO",
+    "author(s) ": "MILEI, JAVIER",
+    "price ": "$3.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692057.jpg"
+  },
+  {
+    "title ": "HEARTSONG LA CANCION DEL CORAZON",
+    "author(s) ": "KLUNE, TJ",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683446.jpg"
+  },
+  {
+    "title ": "COLORES MI PRIMERA BIBLIOTECA",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$4.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692502.jpg"
+  },
+  {
+    "title ": "HIPO NO NADA (RUSTICA)",
+    "author(s) ": "BERNASCONI, PABLO",
+    "price ": "$1.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/573439.jpg"
+  },
+  {
+    "title ": "HP6MISTERIO DEL PRINCIPE ...",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$4.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/676281.jpg"
+  },
+  {
+    "title ": "ANIMALES CHAMANICOS DE PODER",
+    "author(s) ": "RUIZ, JOSE",
+    "price ": "$2.150,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695043.jpg"
+  },
+  {
+    "title ": "MAGIA Y AVENTURAS 101 CUENTOS",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$2.519,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681996.jpg"
+  },
+  {
+    "title ": "TOKYO REVENGERS 05",
+    "author(s) ": "KAN WAKUI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695674.jpg"
+  },
+  {
+    "title ": "SOLAS 2DA EDICION",
+    "author(s) ": "FREIJO, MARIA FL...",
+    "price ": "$2.750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678766.jpg"
+  },
+  {
+    "title ": "DINOSAURIOS DEL FIN DEL MUNDO",
+    "author(s) ": "KUKSO, FEDERICO",
+    "price ": "$1.849,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/650253.jpg"
+  },
+  {
+    "title ": "AVENTURAS EN LA GRANJA",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$2.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695583.jpg"
+  },
+  {
+    "title ": "DAILAN KIFKI",
+    "author(s) ": "WALSH, MARIA ELENA",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/660372.jpg"
+  },
+  {
+    "title ": "MICKEY MI PRIMERA BIBLIOTECA",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$4.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692505.jpg"
+  },
+  {
+    "title ": "LA MEDIADORA : EN CUERPO Y ALMAS",
+    "author(s) ": "VALENTI, LENA",
+    "price ": "$2.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690477.jpg"
+  },
+  {
+    "title ": "PREPARADAS, LISTAS A CRECER!",
+    "author(s) ": "MADARAS, LYNDA",
+    "price ": "$1.099,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/595531.jpg"
+  },
+  {
+    "title ": "AMULETO 2 LA MALDICION D...",
+    "author(s) ": "KAZU KIBUISHI",
+    "price ": "$2.544,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/621920.jpg"
+  },
+  {
+    "title ": "CUENTOS PARA IR A DORMIR ...",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$2.519,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681997.jpg"
+  },
+  {
+    "title ": "OBSCURITAS",
+    "author(s) ": "LAGERCRANTZ, DAVID",
+    "price ": "$3.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696033.jpg"
+  },
+  {
+    "title ": "ANIMALES CHAMANICOS DE PODER",
+    "author(s) ": "RUIZ, JOSE",
+    "price ": "$2.150,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695043.jpg"
+  },
+  {
+    "title ": "MAGIA Y AVENTURAS 101 CUENTOS",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$2.519,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681996.jpg"
+  },
+  {
+    "title ": "DEMON SLAYER KIMETSU NO YAIBA - 09",
+    "author(s) ": "KOYOHARU, GOTOUGE",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683544.jpg"
+  },
+  {
+    "title ": "DIAS DE PESCA",
+    "author(s) ": "MAINE, MARGARITA...",
+    "price ": "$1.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/670184.jpg"
+  },
+  {
+    "title ": "SOLAS 2DA EDICION",
+    "author(s) ": "FREIJO, MARIA FL...",
+    "price ": "$2.750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678766.jpg"
+  },
+  {
+    "title ": "DINOSAURIOS DEL FIN DEL MUNDO",
+    "author(s) ": "KUKSO, FEDERICO",
+    "price ": "$1.849,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/650253.jpg"
+  },
+  {
+    "title ": "AVENTURAS EN LA GRANJA",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$2.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695583.jpg"
+  },
+  {
+    "title ": "DAILAN KIFKI",
+    "author(s) ": "WALSH, MARIA ELENA",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/660372.jpg"
+  },
+  {
+    "title ": "MICKEY MI PRIMERA BIBLIOTECA",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$4.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692505.jpg"
+  },
+  {
+    "title ": "FINANZAS BASICAS",
+    "author(s) ": "HARVARD BUSINESS...",
+    "price ": "$1.551,60",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696636.jpg"
+  },
+  {
+    "title ": "PALABRAS SEMILLA",
+    "author(s) ": "DEMARCO, MAGELA ...",
+    "price ": "$1.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696122.jpg"
+  },
+  {
+    "title ": "ASTERIX Y EL GRIFO",
+    "author(s) ": "FERRI, JEAN-YVES",
+    "price ": "$2.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694206.jpg"
+  },
+  {
+    "title ": "A TRAVES DE MI VENTANA",
+    "author(s) ": "GODOY, ARIANA",
+    "price ": "$4.149,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/665518.jpg"
+  },
+  {
+    "title ": "EL PRINCIPE",
+    "author(s) ": "MAQUIAVELO, NICOLAS",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/644296.jpg"
+  },
+  {
+    "title ": "HAIKYU!! 01",
+    "author(s) ": "HARUICHI FURUDATE",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686569.jpg"
+  },
+  {
+    "title ": "DOLARIZAR",
+    "author(s) ": "ROMANO, ALFREDO",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688429.jpg"
+  },
+  {
+    "title ": "TOKYO REVENGERS 04",
+    "author(s) ": "KAN WAKUI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693192.jpg"
+  },
+  {
+    "title ": "MI VERGÜENZA",
+    "author(s) ": "GARRIDO, JAVIER",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695241.jpg"
+  },
+  {
+    "title ": "HISTORIAS SUPERGENIALES DE MIEDO",
+    "author(s) ": "KINNEY, JEFF",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694955.jpg"
+  },
+  {
+    "title ": "RED AVENTURAS DE PELICULAS",
+    "author(s) ": "DISNEY, DISNEY",
+    "price ": "$4.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693865.jpg"
+  },
+  {
+    "title ": "MEGA EN LA GRANJA",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696377.jpg"
+  },
+  {
+    "title ": "HAIKYU!! 09",
+    "author(s) ": "HARUICHI FURUDATE",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695645.jpg"
+  },
+  {
+    "title ": "PETER PAN",
+    "author(s) ": "BARRIE, JAMES MA...",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/649954.jpg"
+  },
+  {
+    "title ": "COMO MANTENER UNA CONVERS...",
+    "author(s) ": "HARVARD BUSINESS...",
+    "price ": "$1.551,60",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696635.jpg"
+  },
+  {
+    "title ": "TOKYO REVENGERS 01",
+    "author(s) ": "KAN WAKUI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690958.jpg"
+  },
+  {
+    "title ": "LA LISTA DE LA SUERTE",
+    "author(s) ": "LIPPINCOTT, RACHAEL",
+    "price ": "$3.539,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694127.jpg"
+  },
+  {
+    "title ": "TRONO DE CRISTAL (TRONO D...",
+    "author(s) ": "MAAS, SARAH J.",
+    "price ": "$4.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/626647.jpg"
+  },
+  {
+    "title ": "YOGA",
+    "author(s) ": "CARRERE, EMMANUEL",
+    "price ": "$2.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683401.jpg"
+  },
+  {
+    "title ": "LIBERA TU MAGIA",
+    "author(s) ": "GILBERT, ELIZABETH",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/620544.jpg"
+  },
+  {
+    "title ": "DESPIERTA",
+    "author(s) ": "PRONSKY, LORENA",
+    "price ": "$3.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677866.jpg"
+  },
+  {
+    "title ": "EL ZOO DE JOAQUIN (RUSTICA)",
+    "author(s) ": "BERNASCONI, PABLO",
+    "price ": "$1.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/564551.jpg"
+  },
+  {
+    "title ": "CUENTOS COMPLETOS (JLBORGES)",
+    "author(s) ": "BORGES, JORGE LUIS",
+    "price ": "$3.149,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/568510.jpg"
+  },
+  {
+    "title ": "SU DERECHO A SER RICO",
+    "author(s) ": "HILL, NAPOLEON",
+    "price ": "$3.570,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693359.jpg"
+  },
+  {
+    "title ": "UNA EDUCACION MORTAL",
+    "author(s) ": "NOVIK, NAOMI",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681834.jpg"
+  },
+  {
+    "title ": "UN VERDOR TERRIBLE",
+    "author(s) ": "LABATUT, BENJAMIN",
+    "price ": "$2.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/680489.jpg"
+  },
+  {
+    "title ": "SOBRENATURAL",
+    "author(s) ": "DISPENZA, JOE",
+    "price ": "$4.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684525.jpg"
+  },
+  {
+    "title ": "DEMON SLAYER KIMETSU NO YAIBA - 06",
+    "author(s) ": "KOYOHARU, GOTOUGE",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681308.jpg"
+  },
+  {
+    "title ": "SUPERNOVA",
+    "author(s) ": "MEYER, MARISSA",
+    "price ": "$2.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/675872.jpg"
+  },
+  {
+    "title ": "LETRAMANIA 1",
+    "author(s) ": "JOHNSON, SALLY /...",
+    "price ": "$1.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/140356.jpg"
+  },
+  {
+    "title ": "LIBERTAD, LIBERTAD, LIBERTAD",
+    "author(s) ": "MILEI, JAVIER / ...",
+    "price ": "$3.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663292.jpg"
+  },
+  {
+    "title ": "MY HERO ACADEMIA 33",
+    "author(s) ": "KOHEI HORIKOSHI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696845.jpg"
+  },
+  {
+    "title ": "500 STICKERS KAWAII",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$1.459,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695578.jpg"
+  },
+  {
+    "title ": "ANIMALES DEL MAR MI PRIM...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691493.jpg"
+  },
+  {
+    "title ": "EL NUDO WINDSOR",
+    "author(s) ": "BENNETT, S. J.",
+    "price ": "$3.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696749.jpg"
+  },
+  {
+    "title ": "EN LA TIERRA SOMOS FUGAZM...",
+    "author(s) ": "VUONG, OCEAN",
+    "price ": "$2.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/675997.jpg"
+  },
+  {
+    "title ": "LATENTES",
+    "author(s) ": "SEITUN, MARITCHU",
+    "price ": "$3.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/595807.jpg"
+  },
+  {
+    "title ": "SIDDHARTA",
+    "author(s) ": "HESSE, HERMANN",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/666855.jpg"
+  },
+  {
+    "title ": "7 VENDEDORES DE EXITO¿ Y...",
+    "author(s) ": "GUL VILDA, JESUS",
+    "price ": "$1.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695797.jpg"
+  },
+  {
+    "title ": "ES LA ECONOMIA, VOS NO SOS ESTUPIDA",
+    "author(s) ": "POZZO, ESTEFANIA",
+    "price ": "$2.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696165.jpg"
+  },
+  {
+    "title ": "DIAS EN CASA",
+    "author(s) ": "MAINE, MARGARITA...",
+    "price ": "$1.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685929.jpg"
+  },
+  {
+    "title ": "LAS MALAS",
+    "author(s) ": "SOSA VILLADA, CAMILA",
+    "price ": "$3.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/660932.jpg"
+  },
+  {
+    "title ": "LA LA ENCICLOPEDIA DE LOS...",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$4.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684540.jpg"
+  },
+  {
+    "title ": "CUENTOS PARA SOÑAR EL P...",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696412.jpg"
+  },
+  {
+    "title ": "VIDA DE PIRATAS!",
+    "author(s) ": "AVIÑO, LAURA",
+    "price ": "$939,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/615769.jpg"
+  },
+  {
+    "title ": "REINO DE CARNE Y FUEGO, U...",
+    "author(s) ": "ARMENTROUT, JENN...",
+    "price ": "$3.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692197.jpg"
+  },
+  {
+    "title ": "BURUNDI: DE FALSOS PERROS...",
+    "author(s) ": "BERNASCONI, PABLO",
+    "price ": "$3.290,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677980.jpg"
+  },
+  {
+    "title ": "HADAS DE SUEÑOS E INVIERNO",
+    "author(s) ": "CALLIGARIS, TIFFANY",
+    "price ": "$2.190,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696240.jpg"
+  },
+  {
+    "title ": "PEORES, LOS (MP)",
+    "author(s) ": "GRABOIS, JUAN",
+    "price ": "$2.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696750.jpg"
+  },
+  {
+    "title ": "101 MUJERES EXTRAORDINARIAS",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661702.jpg"
+  },
+  {
+    "title ": "EL INFINITO EN UN JUNCO",
+    "author(s) ": "VALLEJO, IRENE",
+    "price ": "$3.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683844.jpg"
+  },
+  {
+    "title ": "EL ARTE DE VIVIR CON SENCILLEZ",
+    "author(s) ": "SHUNMYO MASUNO",
+    "price ": "$2.690,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/675017.jpg"
+  },
+  {
+    "title ": "ANTI RECETAS: COCINA PARA PENSAR",
+    "author(s) ": "DI CESARE, MARCOS",
+    "price ": "$3.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695010.jpg"
+  },
+  {
+    "title ": "EMMA",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695067.jpg"
+  },
+  {
+    "title ": "EL INCREIBLE VIAJE DE CRI...",
+    "author(s) ": "GOURRAT, CAROLE ...",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/584958.jpg"
+  },
+  {
+    "title ": "FEROZ FEROZ",
+    "author(s) ": "CINETTO, LILIANA",
+    "price ": "$1.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661589.jpg"
+  },
+  {
+    "title ": "GUIA DE LOS POKEMON DE ALOLA",
+    "author(s) ": "VARIOS AUTORES",
+    "price ": "$3.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/650213.jpg"
+  },
+  {
+    "title ": "LAS FRUTAS",
+    "author(s) ": "AUZOU, LOS EDITO...",
+    "price ": "$3.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/652920.jpg"
+  },
+  {
+    "title ": "LAS GRATITUDES",
+    "author(s) ": "DE VIGAN, DELPHINE",
+    "price ": "$2.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683990.jpg"
+  },
+  {
+    "title ": "GATURRO 4 GATURRO Y LA IN...",
+    "author(s) ": "NIK",
+    "price ": "$1.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/626407.jpg"
+  },
+  {
+    "title ": "UN INVIERNO MAGICO FROZEN",
+    "author(s) ": "DISNEY, DISNEY",
+    "price ": "$1.019,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696498.jpg"
+  },
+  {
+    "title ": "LOS VECINOS DE LA GRANJA",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.178,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695360.jpg"
+  },
+  {
+    "title ": "BAJAR ES LO PEOR",
+    "author(s) ": "ENRIQUEZ, MARIANA",
+    "price ": "$2.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/573865.jpg"
+  },
+  {
+    "title ": "RELATOS BREVES PARA VALORAR LA VIDA",
+    "author(s) ": "CAMARA, AGUS",
+    "price ": "$2.060,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696043.jpg"
+  },
+  {
+    "title ": "EN LA SELVA ANIMALES PARA ARMAR",
+    "author(s) ": "DE ALVA, ANTONELA",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694660.jpg"
+  },
+  {
+    "title ": "MARVEL: GUIA DE PERSONAJES S Z",
+    "author(s) ": "CATAPULTA, LOS E...",
+    "price ": "$4.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/675838.jpg"
+  },
+  {
+    "title ": "ONE PIECE 01",
+    "author(s) ": "EIICHIRO ODA",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/654997.jpg"
+  },
+  {
+    "title ": "OBSCURITAS",
+    "author(s) ": "LAGERCRANTZ, DAVID",
+    "price ": "$3.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696033.jpg"
+  },
+  {
+    "title ": "HP6MISTERIO DEL PRINCIPE ...",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$5.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677654.jpg"
+  },
+  {
+    "title ": "ENTRE BUENOS AIRES Y MADRID",
+    "author(s) ": "SEBRELI, JUAN JO...",
+    "price ": "$3.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696762.jpg"
+  },
+  {
+    "title ": "BURUNDI: DE ESPEJOS, ALTU...",
+    "author(s) ": "BERNASCONI, PABLO",
+    "price ": "$3.290,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677979.jpg"
+  },
+  {
+    "title ": "SOCORRO!",
+    "author(s) ": "BORNEMANN, ELSA",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/599448.jpg"
+  },
+  {
+    "title ": "DIARIO DE GREG 2 (TB) LA ...",
+    "author(s) ": "KINNEY, JEFF",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687245.jpg"
+  },
+  {
+    "title ": "TODAS LAS VIDAS DE EVA KI",
+    "author(s) ": "ACEVEDO, CRISTIAN",
+    "price ": "$2.290,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695825.jpg"
+  },
+  {
+    "title ": "TOKYO REVENGERS 02",
+    "author(s) ": "KAN WAKUI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690959.jpg"
+  },
+  {
+    "title ": "EL LIBRO TIBETANO DE LA V...",
+    "author(s) ": "RIMPOCHE, SOGYAL",
+    "price ": "$4.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/592109.jpg"
+  },
+  {
+    "title ": "CHAKRAS, LOS SECRETOS DE LA ENERGIA",
+    "author(s) ": "ROSS, SEBASTIAN",
+    "price ": "$3.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/651252.jpg"
+  },
+  {
+    "title ": "A TRAVES DE TI",
+    "author(s) ": "GODOY, ARIANA",
+    "price ": "$3.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687504.jpg"
+  },
+  {
+    "title ": "LOS DESAFIOS DE LEX LUTHOR",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$2.689,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671767.jpg"
+  },
+  {
+    "title ": "EL EL MUNDO DE ARRIBA LUCA",
+    "author(s) ": "DISNEY, DISNEY",
+    "price ": "$1.019,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696491.jpg"
+  },
+  {
+    "title ": "BOQUITAS PINTADAS",
+    "author(s) ": "PUIG, MANUEL",
+    "price ": "$2.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696158.jpg"
+  },
+  {
+    "title ": "GATURRO 3 GATURRO Y LA MA...",
+    "author(s) ": "NIK",
+    "price ": "$1.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/626408.jpg"
+  },
+  {
+    "title ": "EL LIBRO DE LOS PEQUEÑOS...",
+    "author(s) ": "SANZ, MARIANA",
+    "price ": "$2.169,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681293.jpg"
+  },
+  {
+    "title ": "EL MITO DE LAS GENERACIONES",
+    "author(s) ": "DUFFY, BOBBY",
+    "price ": "$2.690,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695810.jpg"
+  },
+  {
+    "title ": "LA LADRONA DE HUESOS",
+    "author(s) ": "LOUREIRO, MABEL",
+    "price ": "$3.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696050.jpg"
+  },
+  {
+    "title ": "CUENTOS PARA SOÑAR EL P...",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696412.jpg"
+  },
+  {
+    "title ": "PRINCESAS Y HEROINAS 101 CUENTOS",
+    "author(s) ": "DISNEY, DISNEY",
+    "price ": "$2.519,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681995.jpg"
+  },
+  {
+    "title ": "ANIMALES PALETA MAGICA DE COLORES",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692498.jpg"
+  },
+  {
+    "title ": "SI, NO, TAL VEZ",
+    "author(s) ": "ALBERTALLI, BECKY",
+    "price ": "$2.750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693812.jpg"
+  },
+  {
+    "title ": "ALGUIEN CAMINA SOBRE TU T...",
+    "author(s) ": "ENRIQUEZ, MARIANA",
+    "price ": "$3.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693918.jpg"
+  },
+  {
+    "title ": "BOSQUE",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696403.jpg"
+  },
+  {
+    "title ": "INVISIBLE",
+    "author(s) ": "MORENO, ELOY",
+    "price ": "$2.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690817.jpg"
+  },
+  {
+    "title ": "EL ARTE DE MANTENER LA CALMA",
+    "author(s) ": "SENECA, LUCIUS A...",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/676189.jpg"
+  },
+  {
+    "title ": "SOCIEDAD DEL CANSANCIO, L...",
+    "author(s) ": "BYUNG-CHUL HAN",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/642016.jpg"
+  },
+  {
+    "title ": "AGATHA Y LA OSCURIDAD",
+    "author(s) ": "PIGNATARO, ANNA",
+    "price ": "$2.230,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/632046.jpg"
+  },
+  {
+    "title ": "SIEMPRE NOS QUEDARA EL VERANO",
+    "author(s) ": "HAN, JENNY",
+    "price ": "$2.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696028.jpg"
+  },
+  {
+    "title ": "TODO LO QUE NECESITO EXIS...",
+    "author(s) ": "KAUR, RUPI",
+    "price ": "$2.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683344.jpg"
+  },
+  {
+    "title ": "UNA CORTE DE NIEBLA Y FURIA (NE)",
+    "author(s) ": "MAAS, SARAH J.",
+    "price ": "$4.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687804.jpg"
+  },
+  {
+    "title ": "MASHA & EL OSO DIVERTILIBROS",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$7.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684016.jpg"
+  },
+  {
+    "title ": "TAROT CREATIVO, EL UNA GU...",
+    "author(s) ": "CRISPIN, JESSA",
+    "price ": "$2.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696169.jpg"
+  },
+  {
+    "title ": "ALMENDRA",
+    "author(s) ": "SOHN WON-PYUNG",
+    "price ": "$2.540,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686340.jpg"
+  },
+  {
+    "title ": "HABITOS PARA SER MILLONARIOS",
+    "author(s) ": "TRACY, BRIAN",
+    "price ": "$2.422,80",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663057.jpg"
+  },
+  {
+    "title ": "MEGA HADAS",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696378.jpg"
+  },
+  {
+    "title ": "RELATOS BREVES PARA VALORAR LA VIDA",
+    "author(s) ": "CAMARA, AGUS",
+    "price ": "$2.060,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696043.jpg"
+  },
+  {
+    "title ": "LA SAGA DE LOS HABSBURGO",
+    "author(s) ": "DES CARS, JEAN",
+    "price ": "$4.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/610466.jpg"
+  },
+  {
+    "title ": "HAIKYU!! 10",
+    "author(s) ": "HARUICHI FURUDATE",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695646.jpg"
+  },
+  {
+    "title ": "PRINCIPITO; EL (TAPA BLANCA)",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$2.179,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/628222.jpg"
+  },
+  {
+    "title ": "LA BIBLIA DE BTS",
+    "author(s) ": "PINEDA-KIM, DIANNE",
+    "price ": "$2.599,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691635.jpg"
+  },
+  {
+    "title ": "LA CIUDAD DE LA LUZ",
+    "author(s) ": "INIO ASANO",
+    "price ": "$850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695657.jpg"
+  },
+  {
+    "title ": "USTED PUEDE SANAR SU VIDA (B)",
+    "author(s) ": "HAY, LOUISE L.",
+    "price ": "$2.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/618038.jpg"
+  },
+  {
+    "title ": "500 STICKERS DE ANIMALES",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$1.459,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679026.jpg"
+  },
+  {
+    "title ": "MANIFIESTO PARA LOS HEROE...",
+    "author(s) ": "SHARMA, ROBIN S.",
+    "price ": "$4.449,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687517.jpg"
+  },
+  {
+    "title ": "CUENTA A LAS ABEJAS QUE ME FUI",
+    "author(s) ": "GABALDON, DIANA",
+    "price ": "$6.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695934.jpg"
+  },
+  {
+    "title ": "BURUNDI: DE LARGOS MISTER...",
+    "author(s) ": "BERNASCONI, PABLO",
+    "price ": "$3.290,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682449.jpg"
+  },
+  {
+    "title ": "CAIDOS DEL MAPA 1 NUEVA EDICION",
+    "author(s) ": "FALCONI, MARIA INES",
+    "price ": "$1.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693960.jpg"
+  },
+  {
+    "title ": "MUNDIALITO",
+    "author(s) ": "SALVINI, CAROLINA",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/697048.jpg"
+  },
+  {
+    "title ": "AMOR Y VIRTUD",
+    "author(s) ": "REID, DIANA",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696242.jpg"
+  },
+  {
+    "title ": "EL PECADOR DE OXFORD",
+    "author(s) ": "PETRYK, MAR",
+    "price ": "$3.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694344.jpg"
+  },
+  {
+    "title ": "Y AHORA, ¿QUE?",
+    "author(s) ": "CONTRERA, ALDANA...",
+    "price ": "$3.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692861.jpg"
+  },
+  {
+    "title ": "EN EL MAR",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696405.jpg"
+  },
+  {
+    "title ": "UNA LUZ FUERTE Y BRILLANTE",
+    "author(s) ": "RIVERO, VIVIANA",
+    "price ": "$4.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684032.jpg"
+  },
+  {
+    "title ": "EL APASIONANTE ORIGEN DE ...",
+    "author(s) ": "BALMACEDA, DANIEL",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678521.jpg"
+  },
+  {
+    "title ": "EL DISEÑO DEL MUNDO",
+    "author(s) ": "PELLEGRINI, FRANCO",
+    "price ": "$3.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696322.jpg"
+  },
+  {
+    "title ": "CEREBRO DE PAN",
+    "author(s) ": "PERLMUTTER, DAVI...",
+    "price ": "$3.099,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/620550.jpg"
+  },
+  {
+    "title ": "COMO GANAR AMIGOS",
+    "author(s) ": "CARNEGIE, DALE",
+    "price ": "$4.449,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/30243.jpg"
+  },
+  {
+    "title ": "VIDA DE ANIMALES SALVAJES!",
+    "author(s) ": "AVIÑO, LAURA",
+    "price ": "$939,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/650541.jpg"
+  },
+  {
+    "title ": "EL CORAJE DE SER QUIEN ER...",
+    "author(s) ": "RISO, WALTER",
+    "price ": "$2.650,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695101.jpg"
+  },
+  {
+    "title ": "EMOCIONES",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$749,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696524.jpg"
+  },
+  {
+    "title ": "LAS MIL Y UNA NOCHES",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695066.jpg"
+  },
+  {
+    "title ": "CUENTOS HERMANOS GRIMM",
+    "author(s) ": "GRIMM, JACOB Y W...",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672334.jpg"
+  },
+  {
+    "title ": "INDIGNO DE SER HUMANO",
+    "author(s) ": "OSAMU DAZAI",
+    "price ": "$1.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/638419.jpg"
+  },
+  {
+    "title ": "CUADERNO DE UNICORNIOS",
+    "author(s) ": "MELILLO, CARLA",
+    "price ": "$999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663446.jpg"
+  },
+  {
+    "title ": "DUEÑA DE TU DINERO",
+    "author(s) ": "ESTRADA, HELENA",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692881.jpg"
+  },
+  {
+    "title ": "FURIA (SERIE CRAVE 2)",
+    "author(s) ": "WOLFF, TRACY",
+    "price ": "$4.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695131.jpg"
+  },
+  {
+    "title ": "AL HUESO!",
+    "author(s) ": "PETERSEN, CHRISTIAN",
+    "price ": "$4.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695111.jpg"
+  },
+  {
+    "title ": "EL LOBO QUE DESCUBRIO PAI...",
+    "author(s) ": "AUZOU, LOS EDITO...",
+    "price ": "$3.290,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/673232.jpg"
+  },
+  {
+    "title ": "ANSIEDAD, DE PROBLEMA A SUPERPODER",
+    "author(s) ": "LOWINGER, JODIE",
+    "price ": "$1.899,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693834.jpg"
+  },
+  {
+    "title ": "UNA EDUCACION MORTAL",
+    "author(s) ": "NOVIK, NAOMI",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681834.jpg"
+  },
+  {
+    "title ": "LA PROFECIA DE ESTAMBUL",
+    "author(s) ": "SANTOS, ALBERTO S.",
+    "price ": "$3.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692878.jpg"
+  },
+  {
+    "title ": "500 STICKERS DE DINOSAURIOS",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$1.459,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695577.jpg"
+  },
+  {
+    "title ": "CUENTOS PARA ENTENDER EL MUNDO",
+    "author(s) ": "MORENO, ELOY",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696769.jpg"
+  },
+  {
+    "title ": "LA LLUVIA SABE POR QUE",
+    "author(s) ": "HEREDIA, MARIA F...",
+    "price ": "$1.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661628.jpg"
+  },
+  {
+    "title ": "EL FIN DEL AUTOODIO",
+    "author(s) ": "GAWEL, VIRGINIA",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681371.jpg"
+  },
+  {
+    "title ": "EMOCIONES PARA LA VIDA",
+    "author(s) ": "CORBERA, ENRIC",
+    "price ": "$3.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661964.jpg"
+  },
+  {
+    "title ": "EL CAMINO DEL LOBO",
+    "author(s) ": "BELFORT, JORDAN",
+    "price ": "$2.650,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/662731.jpg"
+  },
+  {
+    "title ": "TALLER DE ARTE INFINITO: PINTURA",
+    "author(s) ": "CATAPULTA, LOS E...",
+    "price ": "$4.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695481.jpg"
+  },
+  {
+    "title ": "1984 (TB)",
+    "author(s) ": "ORWELL, GEORGE",
+    "price ": "$2.599,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/569813.jpg"
+  },
+  {
+    "title ": "LA DESAPARICION DE LOS RITUALES",
+    "author(s) ": "BYUNG-CHUL HAN",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678432.jpg"
+  },
+  {
+    "title ": "GRAFIMANIA 1",
+    "author(s) ": "JOHNSON, SALLY /...",
+    "price ": "$1.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/140354.jpg"
+  },
+  {
+    "title ": "ABREMENTE 1011 ANOS",
+    "author(s) ": "PLAYBAC, LOS EDI...",
+    "price ": "$2.190,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/558086.jpg"
+  },
+  {
+    "title ": "PATADAS EN LA BOCA",
+    "author(s) ": "CONUR, M",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696201.jpg"
+  },
+  {
+    "title ": "1001 ANIMALES DIVERTIDOS",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$1.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695585.jpg"
+  },
+  {
+    "title ": "MATILDE DEBE MORIR",
+    "author(s) ": "ACEVEDO, CRISTIAN",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/624179.jpg"
+  },
+  {
+    "title ": "ANIMALES",
+    "author(s) ": "VARIOS,",
+    "price ": "$3.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696410.jpg"
+  },
+  {
+    "title ": "FOCUS INTELIGENCIA EMOCIONAL",
+    "author(s) ": "HARVARD BUSINESS...",
+    "price ": "$1.551,60",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696633.jpg"
+  },
+  {
+    "title ": "UNA MALDICION OSCURA Y SOLITARIA",
+    "author(s) ": "KEMMERER, BRIGID",
+    "price ": "$2.650,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695031.jpg"
+  },
+  {
+    "title ": "EL CABALLERO DE LA ARMADURA OXIDADA",
+    "author(s) ": "FISHER, ROBERT",
+    "price ": "$2.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/418636.jpg"
+  },
+  {
+    "title ": "MY HERO ACADEMIA 32",
+    "author(s) ": "KOHEI HORIKOSHI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695661.jpg"
+  },
+  {
+    "title ": "TEO Y ANA INVESTIGAN EL MUNDO",
+    "author(s) ": "GANDMAN, ALEXIEV",
+    "price ": "$2.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/674458.jpg"
+  },
+  {
+    "title ": "LA REPUBLICA",
+    "author(s) ": "PLATON",
+    "price ": "$2.980,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693357.jpg"
+  },
+  {
+    "title ": "AY, PECADOS (ANTOLOGIA NO...",
+    "author(s) ": "GUARINONI, MARIA...",
+    "price ": "$3.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694120.jpg"
+  },
+  {
+    "title ": "MENTES EN JUEGO PREGUNTADOS",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.429,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692479.jpg"
+  },
+  {
+    "title ": "UN MUNDO FELIZ (DB)",
+    "author(s) ": "HUXLEY, ALDOUS",
+    "price ": "$2.599,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/384404.jpg"
+  },
+  {
+    "title ": "MUJERES QUE COMPRAN FLORES",
+    "author(s) ": "MONTFORT, VANESSA",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/674370.jpg"
+  },
+  {
+    "title ": "GATURRO 16",
+    "author(s) ": "NIK",
+    "price ": "$1.480,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/521261.jpg"
+  },
+  {
+    "title ": "COCINA CON HARRY POTTER",
+    "author(s) ": "BUCHOLZ, DINAH",
+    "price ": "$3.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686600.jpg"
+  },
+  {
+    "title ": "LOS COLORES DEL ADIOS",
+    "author(s) ": "SCHLINK, BERNHARD",
+    "price ": "$2.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693694.jpg"
+  },
+  {
+    "title ": "EL DIA QUE MI HIJA ME LLAMO ZORRA",
+    "author(s) ": "RUIZ, SARA DESIREE",
+    "price ": "$3.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696290.jpg"
+  },
+  {
+    "title ": "LA VIUDA",
+    "author(s) ": "SARAMAGO, JOSE",
+    "price ": "$3.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688272.jpg"
+  },
+  {
+    "title ": "ANIMALES DE GRANJA",
+    "author(s) ": "SIGMAR",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688647.jpg"
+  },
+  {
+    "title ": "JANE EYRE",
+    "author(s) ": "BRONTE, CHARLOTTE",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657896.jpg"
+  },
+  {
+    "title ": "TODOS LOS CUENTOS",
+    "author(s) ": "LISPECTOR, CLARICE",
+    "price ": "$3.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695920.jpg"
+  },
+  {
+    "title ": "FLUX (ARG)",
+    "author(s) ": "RINNE, APRIL",
+    "price ": "$2.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695796.jpg"
+  },
+  {
+    "title ": "LA MEJOR DEFENSA",
+    "author(s) ": "RICHTEL, MATT",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695829.jpg"
+  },
+  {
+    "title ": "ORBIL, EL LIBRO PATAS ARRIBA",
+    "author(s) ": "WRIGHT, REBECCA ...",
+    "price ": "$1.570,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/621798.jpg"
+  },
+  {
+    "title ": "MUJERES DEL ALMA MIA",
+    "author(s) ": "ALLENDE, ISABEL",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678529.jpg"
+  },
+  {
+    "title ": "COCO Y MINI SE ENOJAN",
+    "author(s) ": "SEITUN, MARITCHU...",
+    "price ": "$1.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692967.jpg"
+  },
+  {
+    "title ": "EMOCIONES PARA LA VIDA",
+    "author(s) ": "CORBERA, ENRIC",
+    "price ": "$3.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661964.jpg"
+  },
+  {
+    "title ": "EL PRINCIPE",
+    "author(s) ": "MAQUIAVELO, NICOLAS",
+    "price ": "$2.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/647573.jpg"
+  },
+  {
+    "title ": "DRAGON BALL SUPER 07",
+    "author(s) ": "AKIRA TORIYAMA /...",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663366.jpg"
+  },
+  {
+    "title ": "AMULETO 4 EL ULTIMO CONSEJO",
+    "author(s) ": "KAZU KIBUISHI",
+    "price ": "$2.544,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/641211.jpg"
+  },
+  {
+    "title ": "PIENSE Y HAGASE RICO",
+    "author(s) ": "HILL, NAPOLEON",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677868.jpg"
+  },
+  {
+    "title ": "LOS INADOPTABLES",
+    "author(s) ": "TOOKE, HANA",
+    "price ": "$2.850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683155.jpg"
+  },
+  {
+    "title ": "HAIKYU!! 02",
+    "author(s) ": "HARUICHI FURUDATE",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689493.jpg"
+  },
+  {
+    "title ": "VIDA DE PIRATAS!",
+    "author(s) ": "AVIÑO, LAURA",
+    "price ": "$939,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/615769.jpg"
+  },
+  {
+    "title ": "DINOSAURIO",
+    "price ": "$1.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/549061.jpg"
+  },
+  {
+    "title ": "ESCUELA DEL BIEN Y DEL MA...",
+    "author(s) ": "CHAINANI, SOMAN",
+    "price ": "$2.690,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688234.jpg"
+  },
+  {
+    "title ": "LOS MEJORES CUENTOS DE TERROR",
+    "author(s) ": "ANTOLOGIA",
+    "price ": "$2.050,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/647077.jpg"
+  },
+  {
+    "title ": "DRACULA",
+    "author(s) ": "STOKER, BRAM",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696374.jpg"
+  },
+  {
+    "title ": "CUENTOS DE PRINCESAS HIST...",
+    "author(s) ": "WOODS, JENNY",
+    "price ": "$1.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/616963.jpg"
+  },
+  {
+    "title ": "UN MAL DIA EL OSO POLAR",
+    "author(s) ": "PEZ, ALBERTO",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694275.jpg"
+  },
+  {
+    "title ": "FAIRY OAK 2",
+    "author(s) ": "GNONE, ELISABETTA",
+    "price ": "$3.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696099.jpg"
+  },
+  {
+    "title ": "NUNCA",
+    "author(s) ": "FOLLETT, KEN",
+    "price ": "$7.899,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689118.jpg"
+  },
+  {
+    "title ": "COCO Y MINI SE ENOJAN",
+    "author(s) ": "SEITUN, MARITCHU...",
+    "price ": "$1.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692967.jpg"
+  },
+  {
+    "title ": "LAS PRIMAS",
+    "author(s) ": "VENTURINI, AURORA",
+    "price ": "$2.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678759.jpg"
+  },
+  {
+    "title ": "DUNE 1 CRONICAS DUNE",
+    "author(s) ": "HERBERT, FRANK",
+    "price ": "$4.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677885.jpg"
+  },
+  {
+    "title ": "DINOSAURIO",
+    "price ": "$1.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/549061.jpg"
+  },
+  {
+    "title ": "AMULETO 4 EL ULTIMO CONSEJO",
+    "author(s) ": "KAZU KIBUISHI",
+    "price ": "$2.544,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/641211.jpg"
+  },
+  {
+    "title ": "PIENSE Y HAGASE RICO",
+    "author(s) ": "HILL, NAPOLEON",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677868.jpg"
+  },
+  {
+    "title ": "EL PRINCIPE",
+    "author(s) ": "MAQUIAVELO, NICOLAS",
+    "price ": "$2.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/647573.jpg"
+  },
+  {
+    "title ": "MUJERES DEL ALMA MIA",
+    "author(s) ": "ALLENDE, ISABEL",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678529.jpg"
+  },
+  {
+    "title ": "LA CIENCIA DE HACERSE RICO",
+    "author(s) ": "WATTLES, WALLACE D.",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688474.jpg"
+  },
+  {
+    "title ": "EMOCIONES PARA LA VIDA",
+    "author(s) ": "CORBERA, ENRIC",
+    "price ": "$3.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661964.jpg"
+  },
+  {
+    "title ": "LOS MEJORES CUENTOS DE TERROR",
+    "author(s) ": "ANTOLOGIA",
+    "price ": "$2.050,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/647077.jpg"
+  },
+  {
+    "title ": "LOS INADOPTABLES",
+    "author(s) ": "TOOKE, HANA",
+    "price ": "$2.850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683155.jpg"
+  },
+  {
+    "title ": "DRACULA",
+    "author(s) ": "STOKER, BRAM",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696374.jpg"
+  },
+  {
+    "title ": "UN MAL DIA EL OSO POLAR",
+    "author(s) ": "PEZ, ALBERTO",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694275.jpg"
+  },
+  {
+    "title ": "ESCUELA DEL BIEN Y DEL MA...",
+    "author(s) ": "CHAINANI, SOMAN",
+    "price ": "$2.690,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688234.jpg"
+  },
+  {
+    "title ": "VIDA DE PIRATAS!",
+    "author(s) ": "AVIÑO, LAURA",
+    "price ": "$939,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/615769.jpg"
+  },
+  {
+    "title ": "AMULETO 7 FUEGO Y LUZ",
+    "author(s) ": "KAZU KIBUISHI",
+    "price ": "$2.544,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671322.jpg"
+  },
+  {
+    "title ": "MY HERO ACADEMIA 04",
+    "author(s) ": "KOHEI HORIKOSHI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/650619.jpg"
+  },
+  {
+    "title ": "DIARIO DE UNA BRUJA",
+    "author(s) ": "DAVILA, VALERIA ...",
+    "price ": "$1.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/594231.jpg"
+  },
+  {
+    "title ": "EL VIEJO Y EL MAR",
+    "author(s) ": "HEMINGWAY, ERNEST",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/666331.jpg"
+  },
+  {
+    "title ": "RAYUELA",
+    "author(s) ": "CORTAZAR, JULIO",
+    "price ": "$4.099,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/645076.jpg"
+  },
+  {
+    "title ": "HEROES DEL OLIMPO 2 EL HI...",
+    "author(s) ": "RIORDAN, RICK",
+    "price ": "$4.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/571804.jpg"
+  },
+  {
+    "title ": "KISS EN ARGENTINA",
+    "author(s) ": "RIZZOTTI, ALEJANDRO",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695910.jpg"
+  },
+  {
+    "title ": "BELLA Y LA BESTIA, LA PA...",
+    "author(s) ": "BARBOT DE VILLEN...",
+    "price ": "$1.630,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/628253.jpg"
+  },
+  {
+    "title ": "LA MUJER ROTA",
+    "author(s) ": "DE BEAUVOIR, SIMONE",
+    "price ": "$2.599,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/452883.jpg"
+  },
+  {
+    "title ": "DRAGON BALL SUPER 17",
+    "author(s) ": "AKIRA TORIYAMA",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695640.jpg"
+  },
+  {
+    "title ": "GATURRO 2 GATURRO Y LA MA...",
+    "author(s) ": "NIK",
+    "price ": "$1.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/625602.jpg"
+  },
+  {
+    "title ": "1984 (TB)",
+    "author(s) ": "ORWELL, GEORGE",
+    "price ": "$2.599,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/569813.jpg"
+  },
+  {
+    "title ": "SER FELIZ ES DARSE CUENTA...",
+    "author(s) ": "@BLEUMINETTE",
+    "price ": "$2.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691634.jpg"
+  },
+  {
+    "title ": "ASI HABLO ZARATUSTRA",
+    "author(s) ": "NIETZSCHE, FRIEDRICH",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657934.jpg"
+  },
+  {
+    "title ": "ADIOS AL MATRIMONIO",
+    "author(s) ": "LUTEREAU, LUCIANO",
+    "price ": "$2.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691026.jpg"
+  },
+  {
+    "title ": "REVISTA DE SOCIEDAD DE LA...",
+    "author(s) ": "ENOCH, SUZANNE",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695818.jpg"
+  },
+  {
+    "title ": "EL LORO AZUL",
+    "author(s) ": "HUIDOBRO, NORMA",
+    "price ": "$1.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691562.jpg"
+  },
+  {
+    "title ": "ODISEA",
+    "author(s) ": "HOMERO",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672338.jpg"
+  },
+  {
+    "title ": "LIGHTYEAR LA NOVELA",
+    "author(s) ": "DISNEY",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696137.jpg"
+  },
+  {
+    "title ": "PROMISED NEVERLAND, THE 1",
+    "author(s) ": "KAIU SHIRAI / PO...",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663435.jpg"
+  },
+  {
+    "title ": "LAS MEJORES HISTORIAS DE ...",
+    "author(s) ": "CONAN DOYLE, ARTHUR",
+    "price ": "$3.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/551713.jpg"
+  },
+  {
+    "title ": "REUNION",
+    "author(s) ": "BROWN, NATASHA",
+    "price ": "$1.850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693706.jpg"
+  },
+  {
+    "title ": "HEROES DEL OLIMPO 2 EL HI...",
+    "author(s) ": "RIORDAN, RICK",
+    "price ": "$4.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/571804.jpg"
+  },
+  {
+    "title ": "LA HIJA DE VERCINGETORIX",
+    "author(s) ": "FERRI, JEAN-YVES",
+    "price ": "$2.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683463.jpg"
+  },
+  {
+    "title ": "EL SUTIL ARTE DE QUE (CAS...",
+    "author(s) ": "MANSON, MARK",
+    "price ": "$2.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/665801.jpg"
+  },
+  {
+    "title ": "UNICORNIOS",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$749,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696526.jpg"
+  },
+  {
+    "title ": "PEQUEÑISIMO EN EL (GATUR...",
+    "author(s) ": "NIK",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/641821.jpg"
+  },
+  {
+    "title ": "LA BAHIA",
+    "author(s) ": "JONES, CYNAN",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695911.jpg"
+  },
+  {
+    "title ": "GATURRO 32",
+    "author(s) ": "NIK",
+    "price ": "$1.480,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/662932.jpg"
+  },
+  {
+    "title ": "HISTORIA DEL ARTE PARA NIÑOS",
+    "author(s) ": "BARSOTTI, ELEONORA",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/643434.jpg"
+  },
+  {
+    "title ": "PERDIDOS EN EL LA (GATURR...",
+    "author(s) ": "NIK",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/629048.jpg"
+  },
+  {
+    "title ": "DIARIO DE ANNE FRANK",
+    "author(s) ": "FRANK, ANNE",
+    "price ": "$1.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/384412.jpg"
+  },
+  {
+    "title ": "HAIKYU!! 03",
+    "author(s) ": "HARUICHI FURUDATE",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689494.jpg"
+  },
+  {
+    "title ": "COMETA, UN UNICORNIO MAGICO",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.178,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695361.jpg"
+  },
+  {
+    "title ": "BAJO LAS ESTRELLAS",
+    "author(s) ": "BENNETT, JENN",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/659517.jpg"
+  },
+  {
+    "title ": "CHAINSAW MAN 01",
+    "author(s) ": "TATSUKI FUJIMOTO",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683542.jpg"
+  },
+  {
+    "title ": "PATORUZITO TOMO 01",
+    "author(s) ": "QUINTERNO, DANTE...",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695905.jpg"
+  },
+  {
+    "title ": "ANSIEDAD, DE PROBLEMA A SUPERPODER",
+    "author(s) ": "LOWINGER, JODIE",
+    "price ": "$1.899,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693834.jpg"
+  },
+  {
+    "title ": "CRIATURAS DE LA OSCURIDAD...",
+    "author(s) ": "NICKELODEON",
+    "price ": "$1.119,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682709.jpg"
+  },
+  {
+    "title ": "LAS MEJORES HISTORIAS DE ...",
+    "author(s) ": "CONAN DOYLE, ARTHUR",
+    "price ": "$3.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/551713.jpg"
+  },
+  {
+    "title ": "KISS EN ARGENTINA",
+    "author(s) ": "RIZZOTTI, ALEJANDRO",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695910.jpg"
+  },
+  {
+    "title ": "BELLA Y LA BESTIA, LA PA...",
+    "author(s) ": "BARBOT DE VILLEN...",
+    "price ": "$1.630,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/628253.jpg"
+  },
+  {
+    "title ": "LA MUJER ROTA",
+    "author(s) ": "DE BEAUVOIR, SIMONE",
+    "price ": "$2.599,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/452883.jpg"
+  },
+  {
+    "title ": "10 CUENTOS FABULOSOS DE LA GRANJA",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$4.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679027.jpg"
+  },
+  {
+    "title ": "EL DIA QUE DEJO DE NEVAR EN ALASKA",
+    "author(s) ": "KELLEN, ALICE",
+    "price ": "$2.790,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682457.jpg"
+  },
+  {
+    "title ": "DRAGON BALL SUPER 17",
+    "author(s) ": "AKIRA TORIYAMA",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695640.jpg"
+  },
+  {
+    "title ": "GATURRO 2 GATURRO Y LA MA...",
+    "author(s) ": "NIK",
+    "price ": "$1.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/625602.jpg"
+  },
+  {
+    "title ": "1984 (TB)",
+    "author(s) ": "ORWELL, GEORGE",
+    "price ": "$2.599,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/569813.jpg"
+  },
+  {
+    "title ": "SER FELIZ ES DARSE CUENTA...",
+    "author(s) ": "@BLEUMINETTE",
+    "price ": "$2.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691634.jpg"
+  },
+  {
+    "title ": "ASI HABLO ZARATUSTRA",
+    "author(s) ": "NIETZSCHE, FRIEDRICH",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657934.jpg"
+  },
+  {
+    "title ": "ADIOS AL MATRIMONIO",
+    "author(s) ": "LUTEREAU, LUCIANO",
+    "price ": "$2.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691026.jpg"
+  },
+  {
+    "title ": "REVISTA DE SOCIEDAD DE LA...",
+    "author(s) ": "ENOCH, SUZANNE",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695818.jpg"
+  },
+  {
+    "title ": "EL LORO AZUL",
+    "author(s) ": "HUIDOBRO, NORMA",
+    "price ": "$1.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691562.jpg"
+  },
+  {
+    "title ": "LA GRAN AVENTURA DE LOS GRIEGOS",
+    "author(s) ": "NEGRETE, JAVIER",
+    "price ": "$4.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/618705.jpg"
+  },
+  {
+    "title ": "SOMBRA DE JULIO CESAR, LA...",
+    "author(s) ": "FREDIANI, ANDREA",
+    "price ": "$3.570,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695109.jpg"
+  },
+  {
+    "title ": "ODISEA",
+    "author(s) ": "HOMERO",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672338.jpg"
+  },
+  {
+    "title ": "LIGHTYEAR LA NOVELA",
+    "author(s) ": "DISNEY",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696137.jpg"
+  },
+  {
+    "title ": "DINOSAURIOS CREA TU DINOPARQUE",
+    "author(s) ": "AUTORES VARIOS",
+    "price ": "$3.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696409.jpg"
+  },
+  {
+    "title ": "PROMISED NEVERLAND, THE 1",
+    "author(s) ": "KAIU SHIRAI / PO...",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663435.jpg"
+  },
+  {
+    "title ": "REUNION",
+    "author(s) ": "BROWN, NATASHA",
+    "price ": "$1.850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693706.jpg"
+  },
+  {
+    "title ": "CUENTOS DE LA SELVA",
+    "author(s) ": "QUIROGA, HORACIO",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672367.jpg"
+  },
+  {
+    "title ": "LA INTERMITENCIAS DE LA M...",
+    "author(s) ": "SARAMAGO, JOSE",
+    "price ": "$3.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694101.jpg"
+  },
+  {
+    "title ": "ONE PIECE 06",
+    "author(s) ": "EIICHIRO ODA",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/663413.jpg"
+  },
+  {
+    "title ": "DIARIO DE GREG 15 (TB) TO...",
+    "author(s) ": "KINNEY, JEFF",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687501.jpg"
+  },
+  {
+    "title ": "LOS VECINOS DE LA GRANJA",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.178,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695360.jpg"
+  },
+  {
+    "title ": "VIVIRAS",
+    "author(s) ": "FRANCO, ANNA K.",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/676655.jpg"
+  },
+  {
+    "title ": "HAY ALGO MATANDO NIÑOS Nº 01",
+    "author(s) ": "TYNION IV, JAMES",
+    "price ": "$2.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696136.jpg"
+  },
+  {
+    "title ": "FIVE NIGHTS AT FREDDY'S 3...",
+    "author(s) ": "CAWTHON, SCOTT /...",
+    "price ": "$3.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682097.jpg"
+  },
+  {
+    "title ": "STRANGE",
+    "author(s) ": "MIREZ, ALEX",
+    "price ": "$4.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689579.jpg"
+  },
+  {
+    "title ": "ENOLA HOLMES 6 EL CASO DE...",
+    "author(s) ": "SPRINGER, NANCY",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694069.jpg"
+  },
+  {
+    "title ": "DOCE PACIENTES",
+    "author(s) ": "MANHEIMER, ERIC",
+    "price ": "$1.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695919.jpg"
+  },
+  {
+    "title ": "LA PASION POR LA IGNORANCIA",
+    "author(s) ": "SALECL, RENATA",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695908.jpg"
+  },
+  {
+    "title ": "HASTA QUE TE VUELVA A VER",
+    "author(s) ": "MILANO, ANDREA",
+    "price ": "$4.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686456.jpg"
+  },
+  {
+    "title ": "GATURRO 14 GATURRO Y LA G...",
+    "author(s) ": "NIK",
+    "price ": "$1.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/599974.jpg"
+  },
+  {
+    "title ": "ATTACK ON TITAN VOL 26 (3ª ED)",
+    "author(s) ": "ISAYAMA, HAJIME",
+    "price ": "$990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695895.jpg"
+  },
+  {
+    "title ": "COMO CASARSE CON UN MARQU...",
+    "author(s) ": "QUINN, JULIA",
+    "price ": "$2.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695038.jpg"
+  },
+  {
+    "title ": "MESA DE LOS GALANES, LA (NE)",
+    "author(s) ": "FONTANARROSA, RO...",
+    "price ": "$2.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696047.jpg"
+  },
+  {
+    "title ": "EL DOMINIO DEL AMO",
+    "author(s) ": "INGERFLOM, CLAUDIO",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694992.jpg"
+  },
+  {
+    "title ": "ULTIMO GRADUADO, EL (UNA ...",
+    "author(s) ": "NOVAK, NAOMI",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691712.jpg"
+  },
+  {
+    "title ": "BREVE HISTORIA CONTEMPORA...",
+    "author(s) ": "ROMERO, JOSE LUIS",
+    "price ": "$3.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/640965.jpg"
+  },
+  {
+    "title ": "GATURRO 30",
+    "author(s) ": "NIK",
+    "price ": "$1.480,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/649699.jpg"
+  },
+  {
+    "title ": "TRABAJOS Y PROFESIONES",
+    "author(s) ": "AUTORES VARIOS",
+    "price ": "$2.398,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695332.jpg"
+  },
+  {
+    "title ": "CUENTOPOS DE GULUBU",
+    "author(s) ": "WALSH, MARIA ELENA",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/659830.jpg"
+  },
+  {
+    "title ": "INDOMABLE",
+    "author(s) ": "DOYLE MELTON, GL...",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683527.jpg"
+  },
+  {
+    "title ": "QUIERO SER PEREZ",
+    "author(s) ": "MAINE, MARGARITA...",
+    "price ": "$1.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671391.jpg"
+  },
+  {
+    "title ": "MUJERES QUE COMPRAN FLORES",
+    "author(s) ": "MONTFORT, VANESSA",
+    "price ": "$4.599,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/645838.jpg"
+  },
+  {
+    "title ": "AGRADECE 48 TIPS PARA SE...",
+    "author(s) ": "BERRI, PAZ",
+    "price ": "$1.350,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671439.jpg"
+  },
+  {
+    "title ": "DRACULA",
+    "author(s) ": "STOKER, BRAM",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657961.jpg"
+  },
+  {
+    "title ": "LA ABADIA DE NORTHANGER",
+    "author(s) ": "AUSTEN, JANE",
+    "price ": "$3.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696251.jpg"
+  },
+  {
+    "title ": "CLUB DE BRUJAS",
+    "author(s) ": "KNARIK, MEL / RO...",
+    "price ": "$1.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690089.jpg"
+  },
+  {
+    "title ": "SUPERPEDETE 2 PREPARADOS,...",
+    "author(s) ": "WALLACE, ADAM",
+    "price ": "$1.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695953.jpg"
+  },
+  {
+    "title ": "MY HERO ACADEMIA 07",
+    "author(s) ": "KOHEI HORIKOSHI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/654994.jpg"
+  },
+  {
+    "title ": "PERCY J DIOSES DEL OLIMPO...",
+    "author(s) ": "RIORDAN, RICK",
+    "price ": "$3.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677240.jpg"
+  },
+  {
+    "title ": "WATSON & CIA",
+    "author(s) ": "ZAMBONI, PABLO",
+    "price ": "$1.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671442.jpg"
+  },
+  {
+    "title ": "HAIKYU!! 04",
+    "author(s) ": "HARUICHI FURUDATE",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689496.jpg"
+  },
+  {
+    "title ": "HILO DORADO, EL (ARG)",
+    "author(s) ": "ST CLAIR, KASSIA",
+    "price ": "$2.590,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695800.jpg"
+  },
+  {
+    "title ": "CUERO NEGRO, VACA BLANCA",
+    "author(s) ": "BERNASCONI, PABLO",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/505854.jpg"
+  },
+  {
+    "title ": "CHARLIE Y LA FABRICA DE CHOCOLATE",
+    "author(s) ": "DAHL, ROALD",
+    "price ": "$1.849,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/608761.jpg"
+  },
+  {
+    "title ": "LA VERDAD SOBRE EL CASO H...",
+    "author(s) ": "DICKER, JOEL",
+    "price ": "$4.099,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/637684.jpg"
+  },
+  {
+    "title ": "RESUELVE EL MISTERIO 2 LA...",
+    "author(s) ": "MAGAZINER, LAUREN",
+    "price ": "$2.849,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691636.jpg"
+  },
+  {
+    "title ": "ENOLA HOLMES 5 EL CASO DE...",
+    "author(s) ": "SPRINGER, NANCY",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694117.jpg"
+  },
+  {
+    "title ": "LA VILLA DE LAS TELAS",
+    "author(s) ": "JACOBS, ANNE",
+    "price ": "$5.749,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/654829.jpg"
+  },
+  {
+    "title ": "LA VILLA DE LAS TELAS",
+    "author(s) ": "JACOBS, ANNE",
+    "price ": "$5.749,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/654829.jpg"
+  },
+  {
+    "title ": "SANCTUM",
+    "author(s) ": "ROUX, MADELAINE",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/590874.jpg"
+  },
+  {
+    "title ": "MIRACULOUS LADYBUG Y CAT ...",
+    "author(s) ": "MIRACULOUS",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696140.jpg"
+  },
+  {
+    "title ": "DRAGON BALL SUPER 01",
+    "author(s) ": "AKIRA TORIYAMA",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/646648.jpg"
+  },
+  {
+    "title ": "DAILAN KIFKI",
+    "author(s) ": "WALSH, MARIA ELENA",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/115191.jpg"
+  },
+  {
+    "title ": "UNA LUZ FUERTE Y BRILLANTE",
+    "author(s) ": "RIVERO, VIVIANA",
+    "price ": "$4.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684032.jpg"
+  },
+  {
+    "title ": "SAILOR MOON 5",
+    "author(s) ": "NAOKO TAKEUCHI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/633287.jpg"
+  },
+  {
+    "title ": "AVENTURAS POLARES MINI ...",
+    "author(s) ": "GUADAL, EDITORIA...",
+    "price ": "$4.579,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/668993.jpg"
+  },
+  {
+    "title ": "NO MAS PANALES",
+    "author(s) ": "L'HEUREUX, CHRISTINE",
+    "price ": "$1.650,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690459.jpg"
+  },
+  {
+    "title ": "WHEATHEARING WITH YOU 01",
+    "author(s) ": "MAKOTO SHINKAI",
+    "price ": "$850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693195.jpg"
+  },
+  {
+    "title ": "HARRY POTTER LA COLECCIO...",
+    "price ": "$5.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688016.jpg"
+  },
+  {
+    "title ": "STAR WARS DE LOS DIARIOS ...",
+    "author(s) ": "AARON, JASON",
+    "price ": "$3.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696134.jpg"
+  },
+  {
+    "title ": "EL CORAJE DE SER QUIEN ER...",
+    "author(s) ": "RISO, WALTER",
+    "price ": "$2.650,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695101.jpg"
+  },
+  {
+    "title ": "ENCICLOPEDIA DEL ANTIGUO EGIPTO",
+    "author(s) ": "STRUDWICK, HELEN",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/623445.jpg"
+  },
+  {
+    "title ": "AMULETO 5",
+    "author(s) ": "KAZU KIBUISHI",
+    "price ": "$2.544,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/649342.jpg"
+  },
+  {
+    "title ": "EL JUEGO DE BASKET PAW PATROL",
+    "author(s) ": "HASH(0X1DA50AB0)...",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672242.jpg"
+  },
+  {
+    "title ": "DEATH NOTE 10",
+    "author(s) ": "TAKESHI OBATA / ...",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679805.jpg"
+  },
+  {
+    "title ": "EL RETRATO DE DORIAN GRAY",
+    "author(s) ": "WILDE, OSCAR",
+    "price ": "$2.050,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/647078.jpg"
+  },
+  {
+    "title ": "UNA CORTE DE ALAS Y RUINA (NE)",
+    "author(s) ": "MAAS, SARAH J.",
+    "price ": "$3.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687805.jpg"
+  },
+  {
+    "title ": "UN CUENTO DE BRUJAS",
+    "author(s) ": "COLFER, CHRIS",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689110.jpg"
+  },
+  {
+    "title ": "HIPO NO NADA",
+    "author(s) ": "BERNASCONI, PABLO",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/451845.jpg"
+  },
+  {
+    "title ": "ONTOLOGIA DEL LENGUAJE",
+    "author(s) ": "ECHEVERRIA, RAFAEL",
+    "price ": "$4.369,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/541407.jpg"
+  },
+  {
+    "title ": "FEROZ FEROZ",
+    "author(s) ": "CINETTO, LILIANA",
+    "price ": "$1.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661589.jpg"
+  },
+  {
+    "title ": "SOCIEDAD DE LA TRANSPARENCIA",
+    "author(s) ": "BYUNG-CHUL HAN",
+    "price ": "$1.540,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/592272.jpg"
+  },
+  {
+    "title ": "DESTROZAME",
+    "author(s) ": "MAFI, TAHEREH",
+    "price ": "$2.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693293.jpg"
+  },
+  {
+    "title ": "CREATIVIDAD SA",
+    "author(s) ": "CATMULL, EDWIN",
+    "price ": "$3.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/589442.jpg"
+  },
+  {
+    "title ": "PATADAS EN LA BOCA",
+    "author(s) ": "CONUR, M",
+    "price ": "$2.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696201.jpg"
+  },
+  {
+    "title ": "AMIGA ESTUPENDA, LA (DOS AMIGAS 1)",
+    "author(s) ": "FERRANTE, ELENA",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686347.jpg"
+  },
+  {
+    "title ": "BROMATOLOGIA EN CASA",
+    "author(s) ": "AL, MARIANA / PI...",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692972.jpg"
+  },
+  {
+    "title ": "FICCIONES",
+    "author(s) ": "BORGES, JORGE LUIS",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/616356.jpg"
+  },
+  {
+    "title ": "DIARIO DE ROWLEY 2 AVENTU...",
+    "author(s) ": "KINNEY, JEFF",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694125.jpg"
+  },
+  {
+    "title ": "ESOS RAROS ADOLESCENTES NUEVOS",
+    "author(s) ": "LUTEREAU, LUCIANO",
+    "price ": "$2.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661782.jpg"
+  },
+  {
+    "title ": "FRUTAS",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.835,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695349.jpg"
+  },
+  {
+    "title ": "MISTERIOS CLODETT 2 CASO ...",
+    "author(s) ": "CLODETT",
+    "price ": "$1.769,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694068.jpg"
+  },
+  {
+    "title ": "POETICAS AFECTIVAS",
+    "author(s) ": "CANO, VIRGINIA",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695488.jpg"
+  },
+  {
+    "title ": "EL FIN DEL AUTOODIO",
+    "author(s) ": "GAWEL, VIRGINIA",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681371.jpg"
+  },
+  {
+    "title ": "SIRA",
+    "author(s) ": "DUEÑAS, MARIA",
+    "price ": "$4.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682917.jpg"
+  },
+  {
+    "title ": "HAY QUIENES ELIGEN LA OSCURIDAD",
+    "author(s) ": "DONLEA, CHARLIE",
+    "price ": "$2.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690536.jpg"
+  },
+  {
+    "title ": "CALLEJON DIAGON",
+    "author(s) ": "GOFF, RAOUL",
+    "price ": "$4.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/666357.jpg"
+  },
+  {
+    "title ": "LOVELY ELA Y EL LIBRO ENCANTADO",
+    "author(s) ": "LOVELY ELA",
+    "price ": "$3.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692075.jpg"
+  },
+  {
+    "title ": "FRUTAS",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.835,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695349.jpg"
+  },
+  {
+    "title ": "AMIGA ESTUPENDA, LA (DOS AMIGAS 1)",
+    "author(s) ": "FERRANTE, ELENA",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686347.jpg"
+  },
+  {
+    "title ": "BROMATOLOGIA EN CASA",
+    "author(s) ": "AL, MARIANA / PI...",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692972.jpg"
+  },
+  {
+    "title ": "FICCIONES",
+    "author(s) ": "BORGES, JORGE LUIS",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/616356.jpg"
+  },
+  {
+    "title ": "POETICAS AFECTIVAS",
+    "author(s) ": "CANO, VIRGINIA",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695488.jpg"
+  },
+  {
+    "title ": "EL FIN DEL AUTOODIO",
+    "author(s) ": "GAWEL, VIRGINIA",
+    "price ": "$3.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681371.jpg"
+  },
+  {
+    "title ": "SIRA",
+    "author(s) ": "DUEÑAS, MARIA",
+    "price ": "$4.000,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682917.jpg"
+  },
+  {
+    "title ": "HAY QUIENES ELIGEN LA OSCURIDAD",
+    "author(s) ": "DONLEA, CHARLIE",
+    "price ": "$2.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690536.jpg"
+  },
+  {
+    "title ": "CALLEJON DIAGON",
+    "author(s) ": "GOFF, RAOUL",
+    "price ": "$4.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/666357.jpg"
+  },
+  {
+    "title ": "LOVELY ELA Y EL LIBRO ENCANTADO",
+    "author(s) ": "LOVELY ELA",
+    "price ": "$3.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692075.jpg"
+  },
+  {
+    "title ": "MISTERIOS CLODETT 2 CASO ...",
+    "author(s) ": "CLODETT",
+    "price ": "$1.769,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694068.jpg"
+  },
+  {
+    "title ": "ANTI RECETAS: COCINA PARA PENSAR",
+    "author(s) ": "DI CESARE, MARCOS",
+    "price ": "$3.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695010.jpg"
+  },
+  {
+    "title ": "KINGDOM 01",
+    "author(s) ": "Q-HAYASHIDA",
+    "price ": "$850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695649.jpg"
+  },
+  {
+    "title ": "GRANDES HISTORIAS DE LA C...",
+    "author(s) ": "BALMACEDA, DANIEL",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688242.jpg"
+  },
+  {
+    "title ": "VENDELE A LA MENTE, NO A LA GENTE",
+    "author(s) ": "KLARIC, JURGEN",
+    "price ": "$2.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/645592.jpg"
+  },
+  {
+    "title ": "MI AMIGO EL UNICORNIO MI...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692494.jpg"
+  },
+  {
+    "title ": "LAS TRAMPAS DEL MIEDO",
+    "author(s) ": "HABIF, DANIEL",
+    "price ": "$4.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688122.jpg"
+  },
+  {
+    "title ": "DULCE MALDAD",
+    "author(s) ": "RIVAS, JESSICA",
+    "price ": "$3.670,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693760.jpg"
+  },
+  {
+    "title ": "DRAGON BALL SUPER 16",
+    "author(s) ": "AKIRA TORIYAMA",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693118.jpg"
+  },
+  {
+    "title ": "CLAUS Y LUCAS",
+    "author(s) ": "KRISTOF, AGOTA",
+    "price ": "$3.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677593.jpg"
+  },
+  {
+    "title ": "¡AL BANO, CONEJITO!",
+    "author(s) ": "MÜHLE, JORG",
+    "price ": "$2.050,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/660884.jpg"
+  },
+  {
+    "title ": "10TH 01",
+    "author(s) ": "YUKO INARI",
+    "price ": "$850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693091.jpg"
+  },
+  {
+    "title ": "LOS CAZADORES",
+    "author(s) ": "VARISE, LUCILA",
+    "price ": "$3.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696219.jpg"
+  },
+  {
+    "title ": "LIGHTYEAR LIBRO DE ARTE Y...",
+    "author(s) ": "DISNEY",
+    "price ": "$2.760,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695134.jpg"
+  },
+  {
+    "title ": "ALGUN DIA VOLVERE A BUSCARTE",
+    "author(s) ": "ARIAS ARTACHO, J...",
+    "price ": "$2.090,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696241.jpg"
+  },
+  {
+    "title ": "CUENTOS DE ANIMALES",
+    "author(s) ": "WOODS, JENNY",
+    "price ": "$1.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/616977.jpg"
+  },
+  {
+    "title ": "NUTRICION Y GENETICA",
+    "author(s) ": "DOTTO, JORGE",
+    "price ": "$3.440,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/674437.jpg"
+  },
+  {
+    "title ": "KARMA AL INSTANTE",
+    "author(s) ": "MEYER, MARISSA",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688031.jpg"
+  },
+  {
+    "title ": "CARRIE (DB)",
+    "author(s) ": "KING, STEPHEN",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/384850.jpg"
+  },
+  {
+    "title ": "EL LIBRO MAS LINDO DEL MUNDO",
+    "author(s) ": "OYHANARTE, ROSARIO",
+    "price ": "$2.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/33087.jpg"
+  },
+  {
+    "title ": "GATURRO 3",
+    "author(s) ": "NIK",
+    "price ": "$1.480,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/190469.jpg"
+  },
+  {
+    "title ": "TAMBIEN ESTO PASARA",
+    "author(s) ": "BUSQUETS, MILENA",
+    "price ": "$1.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685870.jpg"
+  },
+  {
+    "title ": "DRAGON BALL SUPER 06",
+    "author(s) ": "AKIRA TORIYAMA",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/656973.jpg"
+  },
+  {
+    "title ": "EL FARO DEL FIN DEL MUNDO",
+    "author(s) ": "VERNE, JULES",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/672369.jpg"
+  },
+  {
+    "title ": "MAFALDA Nº 4",
+    "author(s) ": "QUINO",
+    "price ": "$1.230,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/41942.jpg"
+  },
+  {
+    "title ": "HUACO RETRATO",
+    "author(s) ": "WIENER, GABRIELA",
+    "price ": "$3.149,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694946.jpg"
+  },
+  {
+    "title ": "UNA JIRAFA SIN MANCHAS ABRAZOS",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696415.jpg"
+  },
+  {
+    "title ": "CUENTOS CLASICOS PARA LEE...",
+    "author(s) ": "EL GATO DE HOJAL...",
+    "price ": "$2.249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695582.jpg"
+  },
+  {
+    "title ": "LOS OJOS DE PERRO SIBERIANO",
+    "author(s) ": "SANTA ANA, ANTONIO",
+    "price ": "$1.300,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/670951.jpg"
+  },
+  {
+    "title ": "ISADORA MOON Y LOS DISFRA...",
+    "author(s) ": "MUNCASTER, HARRIET",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/666869.jpg"
+  },
+  {
+    "title ": "DULCE MALDAD",
+    "author(s) ": "RIVAS, JESSICA",
+    "price ": "$3.670,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693760.jpg"
+  },
+  {
+    "title ": "ELEMENTAL, QUERIDO STILTON!",
+    "author(s) ": "STILTON, GERONIMO",
+    "price ": "$2.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696036.jpg"
+  },
+  {
+    "title ": "CLAUS Y LUCAS",
+    "author(s) ": "KRISTOF, AGOTA",
+    "price ": "$3.950,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677593.jpg"
+  },
+  {
+    "title ": "DRAGON BALL SUPER 16",
+    "author(s) ": "AKIRA TORIYAMA",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693118.jpg"
+  },
+  {
+    "title ": "10TH 01",
+    "author(s) ": "YUKO INARI",
+    "price ": "$850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693091.jpg"
+  },
+  {
+    "title ": "NUTRICION Y GENETICA",
+    "author(s) ": "DOTTO, JORGE",
+    "price ": "$3.440,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/674437.jpg"
+  },
+  {
+    "title ": "LOS MISERABLES",
+    "author(s) ": "HUGO, VICTOR",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/657963.jpg"
+  },
+  {
+    "title ": "KARMA AL INSTANTE",
+    "author(s) ": "MEYER, MARISSA",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688031.jpg"
+  },
+  {
+    "title ": "ESTRELLAMAS JUEGOS Y MAS",
+    "price ": "$1.180,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683673.jpg"
+  },
+  {
+    "title ": "LOS CAZADORES",
+    "author(s) ": "VARISE, LUCILA",
+    "price ": "$3.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696219.jpg"
+  },
+  {
+    "title ": "LIGHTYEAR LIBRO DE ARTE Y...",
+    "author(s) ": "DISNEY",
+    "price ": "$2.760,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695134.jpg"
+  },
+  {
+    "title ": "CARRIE (DB)",
+    "author(s) ": "KING, STEPHEN",
+    "price ": "$2.799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/384850.jpg"
+  },
+  {
+    "title ": "EL LIBRO MAS LINDO DEL MUNDO",
+    "author(s) ": "OYHANARTE, ROSARIO",
+    "price ": "$2.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/33087.jpg"
+  },
+  {
+    "title ": "DRAGON BALL SUPER 06",
+    "author(s) ": "AKIRA TORIYAMA",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/656973.jpg"
+  },
+  {
+    "title ": "LA SAGA DE LOS ROMANOV",
+    "author(s) ": "DES CARS, JEAN",
+    "price ": "$4.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/593816.jpg"
+  },
+  {
+    "title ": "COHETE",
+    "price ": "$1.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/549060.jpg"
+  },
+  {
+    "title ": "LA DESAPARICION DE LOS RITUALES",
+    "author(s) ": "BYUNG-CHUL HAN",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678432.jpg"
+  },
+  {
+    "title ": "SIETE HERMANAS, LAS (SIET...",
+    "author(s) ": "RILEY, LUCINDA",
+    "price ": "$5.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/626693.jpg"
+  },
+  {
+    "title ": "CULPA MIA (CULPABLES 1)",
+    "author(s) ": "RON, MERCEDES",
+    "price ": "$4.149,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/639190.jpg"
+  },
+  {
+    "title ": "CORAZON DE AMAZONITA",
+    "author(s) ": "CASAÑAS, GLORIA V.",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689587.jpg"
+  },
+  {
+    "title ": "YOUR NAME 1",
+    "price ": "$850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/635689.jpg"
+  },
+  {
+    "title ": "CAPERUCITA DE ABUELA",
+    "author(s) ": "CINETTO, LILIANA...",
+    "price ": "$1.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671260.jpg"
+  },
+  {
+    "title ": "MAFALDA Nº 2",
+    "author(s) ": "QUINO",
+    "price ": "$1.230,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/41940.jpg"
+  },
+  {
+    "title ": "QUIEN SE HA LLEVADO MI QUESO?",
+    "author(s) ": "JOHNSON, SPENCER",
+    "price ": "$2.490,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/664613.jpg"
+  },
+  {
+    "title ": "REBELION EN LA GRANJA",
+    "author(s) ": "ORWELL, GEORGE",
+    "price ": "$1.699,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/567413.jpg"
+  },
+  {
+    "title ": "GATURRO 7 GATURRO Y EL RE...",
+    "author(s) ": "NIK",
+    "price ": "$1.549,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/645833.jpg"
+  },
+  {
+    "title ": "CIUDADES DE PAPEL",
+    "author(s) ": "GREEN, JOHN",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/580503.jpg"
+  },
+  {
+    "title ": "LA LA GRANJA PARA COLOREAR",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691481.jpg"
+  },
+  {
+    "title ": "RONRON , EL GATO LEO CON FIGURAS",
+    "author(s) ": "REY, EVA",
+    "price ": "$600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/40478.jpg"
+  },
+  {
+    "title ": "DRAGON BALL COLOR SAGA ORIGEN 03",
+    "author(s) ": "AKIRA TORIYAMA",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681311.jpg"
+  },
+  {
+    "title ": "MOB PSYCHO 100 03",
+    "author(s) ": "ONE",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693163.jpg"
+  },
+  {
+    "title ": "ZEN Y EL ARTE DE CAMBIAR EL MUNDO",
+    "author(s) ": "HANH, THICH HNAT",
+    "price ": "$2.290,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695044.jpg"
+  },
+  {
+    "title ": "PREGUNTAME: DINOSAURIOS",
+    "author(s) ": "GOGNI, LUCIANA B.",
+    "price ": "$1.050,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679406.jpg"
+  },
+  {
+    "title ": "LOS MEJORES CUENTOS DE MISTERIO",
+    "author(s) ": "ANTOLOGIA",
+    "price ": "$2.050,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/647074.jpg"
+  },
+  {
+    "title ": "EL CHANCHITO AZUL",
+    "author(s) ": "HILB, NORA",
+    "price ": "$1.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693292.jpg"
+  },
+  {
+    "title ": "EL RETRATO DE DORIAN GRAY",
+    "author(s) ": "WILDE, OSCAR",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/666330.jpg"
+  },
+  {
+    "title ": "NO ME JODAS, NAGATORO 02",
+    "author(s) ": "NANASHI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693168.jpg"
+  },
+  {
+    "title ": "EL EL GATO CON BOTAS MIN...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692487.jpg"
+  },
+  {
+    "title ": "UN CORAZON VALIENTE Y ROTO",
+    "author(s) ": "KEMMERER, BRIGID",
+    "price ": "$2.650,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695032.jpg"
+  },
+  {
+    "title ": "TIEMPO DE CONVERSAR",
+    "author(s) ": "GONZALEZ, LILIAN...",
+    "price ": "$1.059,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685536.jpg"
+  },
+  {
+    "title ": "RONRON , EL GATO LEO CON FIGURAS",
+    "author(s) ": "REY, EVA",
+    "price ": "$600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/40478.jpg"
+  },
+  {
+    "title ": "PINTO POP IT CON 600 STIC...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689241.jpg"
+  },
+  {
+    "title ": "MOB PSYCHO 100 03",
+    "author(s) ": "ONE",
+    "price ": "$1.550,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693163.jpg"
+  },
+  {
+    "title ": "CIUDADES DE PAPEL",
+    "author(s) ": "GREEN, JOHN",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/580503.jpg"
+  },
+  {
+    "title ": "LEYRA",
+    "author(s) ": "DE SANTIS, PABLO...",
+    "price ": "$1.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/643863.jpg"
+  },
+  {
+    "title ": "LA LA GRANJA PARA COLOREAR",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691481.jpg"
+  },
+  {
+    "title ": "NO ME JODAS, NAGATORO 02",
+    "author(s) ": "NANASHI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693168.jpg"
+  },
+  {
+    "title ": "DRAGON BALL COLOR SAGA ORIGEN 03",
+    "author(s) ": "AKIRA TORIYAMA",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/681311.jpg"
+  },
+  {
+    "title ": "EL EL GATO CON BOTAS MIN...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692487.jpg"
+  },
+  {
+    "title ": "LA DESAPARICION DE LOS RITUALES",
+    "author(s) ": "BYUNG-CHUL HAN",
+    "price ": "$1.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678432.jpg"
+  },
+  {
+    "title ": "MY HERO ACADEMIA 08",
+    "author(s) ": "KOHEI HORIKOSHI",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/654995.jpg"
+  },
+  {
+    "title ": "UN CORAZON VALIENTE Y ROTO",
+    "author(s) ": "KEMMERER, BRIGID",
+    "price ": "$2.650,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695032.jpg"
+  },
+  {
+    "title ": "MISERY (DB)",
+    "author(s) ": "KING, STEPHEN",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/451038.jpg"
+  },
+  {
+    "title ": "CRONICAS DEL DESAMOR",
+    "author(s) ": "FERRANTE, ELENA",
+    "price ": "$4.449,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/629057.jpg"
+  },
+  {
+    "title ": "LA ULTIMA FIESTA",
+    "author(s) ": "SALVADOR, ANGELES",
+    "price ": "$3.149,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686431.jpg"
+  },
+  {
+    "title ": "HP7RELIQUIAS DE LA MUERTE...",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$5.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/676282.jpg"
+  },
+  {
+    "title ": "ESTUCHE PERCY JACKSON NAV...",
+    "author(s) ": "RIORDAN, RICK",
+    "price ": "$10.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688285.jpg"
+  },
+  {
+    "title ": "EL PSICOANALISTA",
+    "author(s) ": "KATZENBACH, JOHN",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690644.jpg"
+  },
+  {
+    "title ": "LA CIUDAD DE LA MUERTE",
+    "author(s) ": "MIGLIORE, VANESSA",
+    "price ": "$2.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696239.jpg"
+  },
+  {
+    "title ": "HP6MISTERIO DEL PRINCIPE ...",
+    "author(s) ": "ROWLING, J. K.",
+    "price ": "$5.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677654.jpg"
+  },
+  {
+    "title ": "EL VALS DE LA BRUJA",
+    "author(s) ": "MARTINEZ, BELEN",
+    "price ": "$3.150,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688204.jpg"
+  },
+  {
+    "title ": "LA PLUMA MAGICA DE GWENDY",
+    "author(s) ": "CHIZMAR, RICHARD",
+    "price ": "$3.999,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/694102.jpg"
+  },
+  {
+    "title ": "CUENTOS SELECTOS EDGAR ALLAN POE",
+    "author(s) ": "POE, EDGAR ALLAN",
+    "price ": "$2.700,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/567245.jpg"
+  },
+  {
+    "title ": "LAS GRIEGAS",
+    "author(s) ": "GARDELLA, MARIANA",
+    "price ": "$3.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696321.jpg"
+  },
+  {
+    "title ": "ULTRA ZOMBIES HUMOR DESCEREBRADO",
+    "author(s) ": "HENRIQUEZ, PABLO",
+    "price ": "$1.495,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690488.jpg"
+  },
+  {
+    "title ": "JOJO'S BIZARRE ADVENTURE ...",
+    "author(s) ": "HIROHIKO ARAKI",
+    "price ": "$1.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695648.jpg"
+  },
+  {
+    "title ": "500 STICKERS KAWAII",
+    "author(s) ": "EDITORIAL, EQUIPO",
+    "price ": "$1.459,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679025.jpg"
+  },
+  {
+    "title ": "LOS MEJORES CUENTOS DE MISTERIO",
+    "author(s) ": "ANTOLOGIA",
+    "price ": "$2.050,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/647074.jpg"
+  },
+  {
+    "title ": "PREGUNTAME: DINOSAURIOS",
+    "author(s) ": "GOGNI, LUCIANA B.",
+    "price ": "$1.050,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/679406.jpg"
+  },
+  {
+    "title ": "DIARIO DE GREG 16 (TB) EL...",
+    "author(s) ": "KINNEY, JEFF",
+    "price ": "$2.299,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690135.jpg"
+  },
+  {
+    "title ": "CEREBRO NARCO",
+    "author(s) ": "VALDEZ, JORGE LUIS",
+    "price ": "$1.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/652037.jpg"
+  },
+  {
+    "title ": "DEATH NOTE 09",
+    "author(s) ": "TAKESHI OBATA / ...",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/675801.jpg"
+  },
+  {
+    "title ": "EL LEON MIEDOSO ABRAZOS",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.890,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696417.jpg"
+  },
+  {
+    "title ": "SER FELIZ ERA ESTO",
+    "author(s) ": "SACHERI, EDUARDO",
+    "price ": "$2.599,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683271.jpg"
+  },
+  {
+    "title ": "DESPUES DEL INVIERNO",
+    "author(s) ": "NETTEL, GUADALUPE",
+    "price ": "$2.895,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/592593.jpg"
+  },
+  {
+    "title ": "EL CHANCHITO AZUL",
+    "author(s) ": "HILB, NORA",
+    "price ": "$1.100,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/693292.jpg"
+  },
+  {
+    "title ": "CHAINSAW MAN 02",
+    "author(s) ": "TATSUKI FUJIMOTO",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/684670.jpg"
+  },
+  {
+    "title ": "CHAINSAW MAN 04",
+    "author(s) ": "TATSUKI FUJIMOTO",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/686560.jpg"
+  },
+  {
+    "title ": "MANIFIESTOS DEL SURREALIS...",
+    "author(s) ": "BRETON, ANDRE",
+    "price ": "$1.400,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696173.jpg"
+  },
+  {
+    "title ": "TIEMPO DE CONVERSAR",
+    "author(s) ": "GONZALEZ, LILIAN...",
+    "price ": "$1.059,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685536.jpg"
+  },
+  {
+    "title ": "ULTRA ZOMBIES HUMOR DESCEREBRADO",
+    "author(s) ": "HENRIQUEZ, PABLO",
+    "price ": "$1.495,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690488.jpg"
+  },
+  {
+    "title ": "ZEN Y EL ARTE DE CAMBIAR EL MUNDO",
+    "author(s) ": "HANH, THICH HNAT",
+    "price ": "$2.290,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695044.jpg"
+  },
+  {
+    "title ": "CIUDADES DE PAPEL",
+    "author(s) ": "GREEN, JOHN",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/580503.jpg"
+  },
+  {
+    "title ": "LA LA GRANJA PARA COLOREAR",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/691481.jpg"
+  },
+  {
+    "title ": "YOUR NAME 02",
+    "author(s) ": "MAKOTO SHINKAI /...",
+    "price ": "$850,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/641509.jpg"
+  },
+  {
+    "title ": "LETTERING PASO A PASO",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689254.jpg"
+  },
+  {
+    "title ": "REINVENTARSE",
+    "author(s) ": "OLIVERO, INES",
+    "price ": "$2.900,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/677293.jpg"
+  },
+  {
+    "title ": "ANIMALES DEL MAR",
+    "author(s) ": "SIGMAR",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/688649.jpg"
+  },
+  {
+    "title ": "DRAGON BALL COLOR SAGA SAIYAJIN 02",
+    "author(s) ": "AKIRA TORIYAMA",
+    "price ": "$1.800,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690907.jpg"
+  },
+  {
+    "title ": "GATURRO 9",
+    "author(s) ": "NIK",
+    "price ": "$1.480,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/450988.jpg"
+  },
+  {
+    "title ": "COMO CREAR UN PLAN DE NEGOCIO",
+    "author(s) ": "HARVARD BUSINESS...",
+    "price ": "$1.551,60",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696642.jpg"
+  },
+  {
+    "title ": "ACA TA!",
+    "author(s) ": "HILLAR, RUTH",
+    "price ": "$1.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695792.jpg"
+  },
+  {
+    "title ": "PICNIC DE UNICORNIO",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$249,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683102.jpg"
+  },
+  {
+    "title ": "EL EL UNICORNIO BLANCO M...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692495.jpg"
+  },
+  {
+    "title ": "NINJA KID 3 EL RAYO NINJA",
+    "author(s) ": "DO, ANH",
+    "price ": "$2.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690130.jpg"
+  },
+  {
+    "title ": "UN MAL NOMBRE (DOS AMIGAS 2)",
+    "author(s) ": "FERRANTE, ELENA",
+    "price ": "$4.449,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/613354.jpg"
+  },
+  {
+    "title ": "SIRENAS PALETA MAGICA DE COLORES",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692499.jpg"
+  },
+  {
+    "title ": "ASTERIX EL GALO",
+    "author(s) ": "GOSCINNY, RENE /...",
+    "price ": "$2.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/683454.jpg"
+  },
+  {
+    "title ": "LA CARRERA DE LA SELVA",
+    "author(s) ": "VARIOS, AUTORES",
+    "price ": "$1.178,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/695353.jpg"
+  },
+  {
+    "title ": "MANDALAS DE BOLSILLO 10",
+    "author(s) ": "FALCON, GLORIA",
+    "price ": "$799,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661925.jpg"
+  },
+  {
+    "title ": "JAQUE AL PSICOANALISTA",
+    "author(s) ": "KATZENBACH, JOHN",
+    "price ": "$3.649,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/682697.jpg"
+  },
+  {
+    "title ": "HARLEYDAVIDSON",
+    "author(s) ": "SZYMEZAK, PASCAL",
+    "price ": "$4.500,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/544724.jpg"
+  },
+  {
+    "title ": "HAIKYU!! 05",
+    "author(s) ": "HARUICHI FURUDATE",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690913.jpg"
+  },
+  {
+    "title ": "CONFIANZA CIEGA",
+    "author(s) ": "KATZENBACH, JOHN",
+    "price ": "$5.149,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/678518.jpg"
+  },
+  {
+    "title ": "TEXTOS HERMETICOS",
+    "author(s) ": "TRIMEGISTRO, HERMES",
+    "price ": "$3.250,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/696146.jpg"
+  },
+  {
+    "title ": "CUENTOS PARA NIÑOS HISTO...",
+    "price ": "$1.200,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/616978.jpg"
+  },
+  {
+    "title ": "SINCRODESTINO",
+    "author(s) ": "CHOPRA, DEEPAK",
+    "price ": "$1.599,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/650239.jpg"
+  },
+  {
+    "title ": "EL FUTBOL SEGUN BIELSA",
+    "author(s) ": "LAMRANI, SALIM",
+    "price ": "$3.049,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/685535.jpg"
+  },
+  {
+    "title ": "TIBURONES *PEQUEÑOS EXPLORADORES",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$4.329,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689263.jpg"
+  },
+  {
+    "title ": "EL EL UNICORNIO Y EL NARV...",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$1.499,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/692493.jpg"
+  },
+  {
+    "title ": "LOS TRES CHANCHITOS",
+    "author(s) ": "LOPEZ, MONICA / ...",
+    "price ": "$1.600,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/665303.jpg"
+  },
+  {
+    "title ": "SAN MARTIN",
+    "author(s) ": "BRAGONI, BEATRIZ",
+    "price ": "$3.450,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/661223.jpg"
+  },
+  {
+    "title ": "MAZE RUNNER PRUEBA DE FUEGO",
+    "author(s) ": "DASHNER, JAMES",
+    "price ": "$2.399,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/534589.jpg"
+  },
+  {
+    "title ": "MASHLE 01",
+    "author(s) ": "HAJIME ISAYAMA",
+    "price ": "$750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690925.jpg"
+  },
+  {
+    "title ": "LA OTRA GUERRA",
+    "author(s) ": "GUERRIERO, LEILA",
+    "price ": "$1.750,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/687120.jpg"
+  },
+  {
+    "title ": "GARDEL EN IMAGENES IN PICTURES",
+    "author(s) ": "SANTORO, WALTER ...",
+    "price ": "$5.990,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/690478.jpg"
+  },
+  {
+    "title ": "DIARIO DE ANA FRANK",
+    "author(s) ": "FRANK, ANA",
+    "price ": "$1.390,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/652069.jpg"
+  },
+  {
+    "title ": "MATILDA",
+    "author(s) ": "DAHL, ROALD",
+    "price ": "$1.849,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/610355.jpg"
+  },
+  {
+    "title ": "DIARIO DE NIKKI 3 (TB) UN...",
+    "author(s) ": "RUSSELL, RACHEL ...",
+    "price ": "$3.349,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689943.jpg"
+  },
+  {
+    "title ": "LUCA *CUENTOS Y AVENTURAS",
+    "author(s) ": "EDITORIAL GUADAL...",
+    "price ": "$5.199,00",
+    "image ": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/689262.jpg"
+  }
+]

@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "textTest": "npm run build && node src/textContent.js",
+    "scrape": "npm run build && node src/scrape.js",
+    "test": "npm run build && node src/index.js",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
