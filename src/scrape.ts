@@ -59,7 +59,7 @@ let scrapingFunction = async () => {
     }
   }
   let resultJson = JSON.stringify(results, null, 2);
-  fs.writeFile("ejercicio1.json", resultJson, "utf8", (err) => {
+  fs.writeFile("ejercicio2.json", resultJson, "utf8", (err) => {
     !err ? console.log("Todo bien") : console.log(err);
   });
 };
